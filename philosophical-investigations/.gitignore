@@ -1,0 +1,7 @@
+node_modules/
+_site/
+output/
+.playwright-cli/
+*.log
+sources/original.md
+sources/*.ttf
