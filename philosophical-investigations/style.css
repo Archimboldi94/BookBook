@@ -41,3 +41,5 @@ dialog::backdrop,.overlay{background:#30221966}.source-figure{color:#4b3b30}
 @media print{.sidebar,.topbar,.reading-rail,.site-footer,.lesson-end,.tabs,.source-link{display:none!important}.workspace{margin:0}.reading-layout{display:block;padding:0}.text-body{background:white;color:black}body{background:white;color:black}.essay-section>p,.prose{font-size:12pt}.lesson-head h1{font-size:24pt}.essay-section{break-inside:auto}.essay-section h2,.essay-section h3{break-after:avoid}}
 
 .library-back{display:block;flex-shrink:0;font-size:12px;color:var(--muted);margin:0 0 18px 3px}
+
+.loading{padding:28px 0;color:var(--muted);font-size:18px}

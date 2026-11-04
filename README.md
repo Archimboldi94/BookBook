@@ -48,4 +48,8 @@ npm run dev
 
 仓库的 **Settings → Pages → Source** 使用 **GitHub Actions**。部署由仓库根目录工作流统一处理，后续书籍也会一起发布。
 
-预计站点路径为 `https://archimboldi94.github.io/BookBook/`，实际可用状态以 Pages 设置和部署工作流结果为准。私有仓库能否启用 Pages 取决于账户方案；不会通过此项目自动改变仓库可见性。
+书库首页：[BookBook](https://archimboldi94.github.io/BookBook/)。
+
+阅读入口：[《哲学研究》前一百节](https://archimboldi94.github.io/BookBook/philosophical-investigations/)。
+
+仓库已按授权设为公开，并启用了 GitHub Pages。

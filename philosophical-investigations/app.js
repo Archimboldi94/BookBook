@@ -181,6 +181,8 @@
     if (event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom) $('#about').close();
   });
   appearance(); const destination = route(); render(destination ? destination.id : state.section);
+  // 章节就绪后启用控件，避免首次加载时表单进行原生提交。
+  document.querySelectorAll('[data-reader-control]').forEach(node => { node.disabled = false; });
   if (destination?.anchor) {
     const align = () => {
       const latest = route();

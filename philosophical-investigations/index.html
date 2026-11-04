@@ -25,8 +25,8 @@
     <a class="library-back" href="../">← 返回书库</a>
     <a href="#section-1" class="brand"><span class="brand-icon">§</span><span>哲学研究<small>维特根斯坦 · 逐节慢读</small></span></a>
     <div class="sidebar-intro"><span class="volume">第一部</span><h2>从语言的日常出发</h2><p>第 1—100 节学习手册</p></div>
-    <label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="搜索中文文本与解释" aria-label="搜索章节、中文文本与讲解"><kbd>/</kbd></label>
-    <form id="jump-form" class="chapter-jump"><label for="jump-section">跳到第</label><input id="jump-section" type="number" min="1" max="100" step="1" inputmode="numeric" required aria-label="跳转节号"><span>节</span><button type="submit">前往</button></form>
+    <label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" data-reader-control disabled type="search" placeholder="搜索中文文本与解释" aria-label="搜索章节、中文文本与讲解"><kbd>/</kbd></label>
+    <form id="jump-form" class="chapter-jump"><label for="jump-section">跳到第</label><input id="jump-section" data-reader-control disabled type="number" min="1" max="100" step="1" inputmode="numeric" required aria-label="跳转节号"><span>节</span><button type="submit" data-reader-control disabled>前往</button></form>
     <div class="nav-label"><span>阅读目录</span><span id="search-status" role="status" aria-live="polite">共 100 节</span></div>
     <nav id="chapter-list" aria-label="第 1—100 节"></nav>
     <p id="empty-search" hidden>没有找到相关章节。试试“训练”或“意义”。</p>
@@ -34,10 +34,10 @@
   </aside>
   <div class="overlay" id="overlay" hidden></div>
   <div class="workspace">
-    <header class="topbar"><div class="breadcrumb"><button id="menu" class="icon-button mobile-menu" aria-label="打开章节目录" aria-expanded="false" aria-controls="sidebar">☰</button><span>逐节详解</span><span class="slash">/</span><strong id="breadcrumb-section">第 1 节</strong></div><div class="top-actions"><span class="reading-edition">霞鹜文楷 · 阅读版</span><button id="font-size" class="icon-button type-button" aria-label="切换大字号" aria-pressed="false">Aa</button><button id="theme" class="icon-button" aria-label="切换深色模式" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.4 14.5A8.7 8.7 0 0 1 9.5 3.6 8.8 8.8 0 1 0 20.4 14.5Z"/></svg></button></div></header>
+    <header class="topbar"><div class="breadcrumb"><button id="menu" data-reader-control disabled class="icon-button mobile-menu" aria-label="打开章节目录" aria-expanded="false" aria-controls="sidebar">☰</button><span>逐节详解</span><span class="slash">/</span><strong id="breadcrumb-section">第 1 节</strong></div><div class="top-actions"><span class="reading-edition">霞鹜文楷 · 阅读版</span><button id="font-size" data-reader-control disabled class="icon-button type-button" aria-label="切换大字号" aria-pressed="false">Aa</button><button id="theme" data-reader-control disabled class="icon-button" aria-label="切换深色模式" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.4 14.5A8.7 8.7 0 0 1 9.5 3.6 8.8 8.8 0 1 0 20.4 14.5Z"/></svg></button></div></header>
     <div class="reading-layout">
       <main id="main" tabindex="-1">
-        <div id="lesson"></div>
+        <div id="lesson"><p class="loading" role="status">正在载入中文文本与章节……</p></div>
       </main>
       <aside class="reading-rail" aria-label="文章目录"><div class="rail-sticky"><div class="rail-heading">本节内容</div><nav class="on-this-page" id="article-toc"></nav><div class="rail-connection"><span class="rail-label">前后连接</span><p id="rail-connection"></p></div></div></aside>
     </div>
