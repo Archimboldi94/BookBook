@@ -6,8 +6,10 @@ async (page, options = {}) => {
   await page.goto(base);
   await page.locator('#lesson h1').waitFor();
   await page.evaluate(() => document.fonts.ready);
+  if (await page.locator('.chapter-group').count() !== 15) throw new Error('目录分组未覆盖 150 节');
+  if (await page.locator('#jump-section').getAttribute('max') !== '150') throw new Error('跳转上限未更新');
   if (await page.locator('#tab-de,[lang=de],.tabs').count()) throw new Error('阅读页仍有德文入口');
-  for (let id = 1; id <= 100; id++) {
+  for (let id = 1; id <= 150; id++) {
     await page.locator('#jump-section').fill(String(id));
     await page.locator('#jump-form button').click();
     await page.waitForFunction(n => document.querySelector('#breadcrumb-section').textContent === `第 ${n} 节`, id);
@@ -17,7 +19,18 @@ async (page, options = {}) => {
     if (!quotes.every(quote => /[\u4e00-\u9fff]/.test(quote))) throw new Error(`第 ${id} 节精读仍有外文引句`);
     if (!(await page.locator('#text-content').innerText()).trim()) throw new Error(`第 ${id} 节中文文本为空`);
   }
-  if (!await page.locator('#next').isDisabled()) throw new Error('第 100 节存在越界导航');
+  if (!await page.locator('#next').isDisabled()) throw new Error('第 150 节存在越界导航');
+  await page.locator('#previous').click();
+  await page.waitForFunction(() => document.querySelector('#breadcrumb-section').textContent === '第 149 节');
+  await page.locator('#next').click();
+  await page.waitForFunction(() => document.querySelector('#breadcrumb-section').textContent === '第 150 节');
+  await page.locator('#search').fill('150');
+  if (await page.locator('.chapter').count() !== 1) throw new Error('数字搜索没有匹配第 150 节');
+  await page.locator('#search').fill('');
+  await page.goto(`${base}#section-150/close-reading`);
+  await page.waitForFunction(() => document.querySelector('#breadcrumb-section').textContent === '第 150 节');
+  await page.evaluate(() => document.fonts.ready);
+  await page.locator('#close-reading').waitFor();
   const font = await page.evaluate(() => [...document.fonts].some(item => item.family.includes('PI Reader WenKai') && item.status === 'loaded'));
   if (!font) throw new Error('霞鹜文楷未加载');
   const color = await page.locator('.brand-icon').evaluate(node => getComputedStyle(node).backgroundColor);
@@ -26,6 +39,10 @@ async (page, options = {}) => {
     await page.setViewportSize({width,height:900});
     if (!await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)) throw new Error(`${width} 像素横向溢出`);
   }
+  const darkBefore = await page.locator('body').evaluate(node => node.classList.contains('dark'));
+  await page.locator('#theme').click();
+  if (await page.locator('body').evaluate(node => node.classList.contains('dark')) === darkBefore) throw new Error('主题切换未生效');
+  await page.locator('#theme').click();
   if (errors.length) throw new Error(errors.join(';'));
-  return {chapters:100,chineseReading:true,fontLoaded:true,color,errors};
+  return {chapters:150,chineseReading:true,fontLoaded:true,color,errors};
 }

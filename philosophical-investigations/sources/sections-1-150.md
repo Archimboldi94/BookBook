@@ -12,7 +12,7 @@ _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._An
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophische Untersuchungen*. Herausgegeben von G. E. M. Anscombe, R. Rhees, G. H. von Wright. Ludwig Wittgenstein Werkausgabe, Band 1. Suhrkamp Verlag, Frankfurt am Main, 1999, S. 231–485. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
 
-# Philosophische Untersuchungen · §§ 1–100
+# Philosophische Untersuchungen · §§ 1–150
 
 ## 1
 
@@ -737,3 +737,345 @@ Der Sinn des Satzes – möchte man sagen – kann freilich dies oder das offen 
 ## 100
 
 »Es ist doch kein Spiel, wenn es eine Vagheit in den Regeln gibt.« – Aber ist es dann kein Spiel? – »Ja, vielleicht wirst du es Spiel nennen, aber es ist doch jedenfalls kein vollkommenes Spiel.« D.h.: es ist doch dann verunreinigt, und ich interessiere mich nun für dasjenige, was hier verunreinigt wurde. – Aber ich will sagen: Wir mißverstehen die Rolle, die das Ideal in unsrer Ausdrucksweise spielt. D.h.: auch wir würden es ein Spiel nennen, nur sind wir vom Ideal geblendet und sehen daher nicht deutlich die wirkliche Anwendung des Wortes »Spiel«.
+
+## 101
+
+Eine Vagheit in der Logik – wollen wir sagen – kann es nicht geben. Wir leben nun in der Idee: das Ideal ›müsse‹ sich in der Realität finden. Während man noch nicht sieht, wie es sich darin findet, und nicht das Wesen dieses »muß« versteht. Wir glauben: es muß in ihr stecken; denn wir glauben, es schon in ihr zu sehen.
+
+## 102
+
+Die strengen und klaren Regeln des logischen Satzbaues erscheinen uns als etwas im Hintergrund, – im Medium des Verstehens versteckt. Ich sehe sie schon jetzt (wenn auch durch ein Medium hindurch), da ich ja das Zeichen verstehe, etwas mit ihm meine.
+
+## 103
+
+Das Ideal, in unsern Gedanken, sitzt unverrückbar fest. Du kannst nicht aus ihm heraustreten. Du muß immer wieder zurück. Es gibt gar kein Draußen; draußen fehlt die Lebensluft. – Woher dies? Die Idee sitzt gleichsam als Brille auf unsrer Nase, und was wir ansehen, sehen wir durch sie. Wir kommen gar nicht auf den Gedanken, sie abzunehmen.
+
+## 104
+
+Man prädiziert von der Sache, was in der Darstellungsweise liegt. Die Möglichkeit des Vergleichs, die uns beeindruckt, nehmen wir für die Wahrnehmung einer höchst allgemeinen Sachlage.
+
+---
+
+\(Faraday »The Chemical History of a Candle«): »Water is one individual thing – it never changes.«
+
+---
+
+## 105
+
+Wenn wir glauben, jene Ordnung, das Ideal, in der wirklichen Sprache finden zu müssen, werden wir nun mit dem unzufrieden, was man im gewöhnlichen Leben »Satz«, »Wort«, »Zeichen«, nennt.
+
+Der Satz, das Wort, von dem die Logik handelt, soll etwas Reines und Scharfgeschnittenes sein. Und wir zerbrechen uns nun über das Wesen des eigentlichen Zeichens den Kopf. – Ist es etwa die Vorstellung vom Zeichen? oder die Vorstellung im gegenwärtigen Augenblick?
+
+## 106
+
+Hier ist es schwer, gleichsam den Kopf oben zu behalten, – zu sehen, daß wir bei den Dingen des alltäglichen Denkens bleiben müssen, um nicht auf den Abweg zu geraten, wo es scheint, als müßten wir die letzten Feinheiten beschreiben, die wir doch wieder mit unsern Mitteln gar nicht beschreiben könnten. Es ist uns, als sollten wir ein zerstörtes Spinnennetz mit unsern Fingern in Ordnung bringen.
+
+## 107
+
+Je genauer wir die tatsächliche Sprache betrachten, desto stärker wird der Widerstreit zwischen ihr und unsrer Forderung. (Die Kristallreinheit der Logik hatte sich mir ja nicht ergeben; sondern sie war eine Forderung.) Der Widerstreit wird unerträglich; die Forderung droht nun, zu etwas Leerem zu werden. – Wir sind aufs Glatteis geraten, wo die Reibung fehlt, also die Bedingungen in gewissem Sinne ideal sind, aber wir eben deshalb auch nicht gehen können. Wir wollen gehen; dann brauchen wir die Reibung. Zurück auf den rauhen Boden!
+
+## 108
+
+Wir erkennen, daß, was wir »Satz«, »Sprache«, nennen, nicht die formelle Einheit ist, die ich mir vorstellte, sondern die Familie mehr oder weniger miteinander verwandter Gebilde. –– Was aber wird nun aus der Logik? Ihre Strenge scheint hier aus dem Leim zu gehen. – Verschwindet sie damit aber nicht ganz? – Denn wie kann die Logik ihre Strenge verlieren? Natürlich nicht dadurch, daß man ihr etwas von ihrer Strenge abhandelt. – Das Vorurteil der Kristallreinheit kann nur so beseitigt werden, daß wir unsere ganze Betrachtung drehen. (Man könnte sagen: Die Betrachtung muß gedreht werden, aber um unser eigentliches Bedürfnis als Angelpunkt.)
+
+---
+
+Die Philosophie der Logik redet in keinem andern Sinn von Sätzen und Wörtern, als wir es im gewöhnlichen Leben tun, wenn wir etwa sagen »hier steht ein chinesischer Satz aufgeschrieben«, oder »nein, das sieht nur aus wie Schriftzeichen, ist aber ein Ornament«, etc.
+
+Wir reden von dem räumlichen und zeitlichen Phänomen der Sprache; nicht von einem unräumlichen und unzeitlichen Unding. [Nur kann man sich in verschiedener Weise für ein Phänomen interessieren.] Aber wir reden von ihr so, wie von den Figuren des Schachspiels, indem wir Spielregeln für sie angeben, nicht ihre physikalischen Eigenschaften beschreiben.
+
+Die Frage »Was ist eigentlich ein Wort?« ist analog der »Was ist eine Schachfigur?«
+
+---
+
+## 109
+
+Richtig war, daß unsere Betrachtungen nicht wissenschaftliche Betrachtungen sein durften. Die Erfahrung, ›daß sich das oder das denken lasse, entgegen unserm Vorurteil‹ – was immer das heißen mag – konnte uns nicht interessieren. (Die pneumatische Auffassung des Denkens.) Und wir dürfen keinerlei Theorie aufstellen. Es darf nichts Hypothetisches in unsern Betrachtungen sein. Alle Erklärung muß fort, und nur Beschreibung an ihre Stelle treten. Und diese Beschreibung empfängt ihr Licht, d.i. ihren Zweck, von den philosophischen Problemen. Diese sind freilich keine empirischen, sondern sie werden durch eine Einsicht in das Arbeiten unserer Sprache gelöst, und zwar so, daß dieses erkannt wird: entgegen einem Trieb, es mißzuverstehen. Diese Probleme werden gelöst, nicht durch Beibringen neuer Erfahrung, sondern durch Zusammenstellung des längst Bekannten. Die Philosophie ist ein Kampf gegen die Verhexung unsres Verstandes durch die Mittel unserer Sprache.
+
+## 110
+
+»Die Sprache (oder das Denken) ist etwas Einzigartiges« – das erweist sich als ein Aberglaube (nicht Irrtum!), hervorgerufen selbst durch grammatische Täuschungen.
+
+Und auf diese Täuschungen, auf die Probleme, fällt nun das Pathos zurück.
+
+## 111
+
+Die Probleme, die durch ein Mißdeuten unserer Sprachformen entstehen, haben den Charakter der Tiefe. Es sind tiefe Beunruhigungen; sie wurzeln so tief in uns wie die Formen unserer Sprache, und ihre Bedeutung ist so groß wie die Wichtigkeit unserer Sprache. –– Fragen wir uns: Warum empfinden wir einen grammatischen Witz als tief? (Und das ist ja die philosophische Tiefe.)
+
+## 112
+
+Ein Gleichnis, das in die Formen unserer Sprache aufgenommen ist, bewirkt einen falschen Schein; der beunruhigt uns: »Es ist doch nicht so!« – sagen wir. »Aber es muß doch so sein!«
+
+## 113
+
+»Es ist doch so – – –« sage ich wieder und wieder vor mich hin. Es ist mir, als müßte ich das Wesen der Sache erfassen, wenn ich meinen Blick nur ganz scharf auf dies Faktum einstellen, es in den Brennpunkt rücken könnte.
+
+## 114
+
+Log. Phil. Abh. (4.5): »Die allgemeine Form des Satzes ist: Es verhält sich so und so«. – Das ist ein Satz von jener Art, die man sich unzählige Male wiederholt. Man glaubt, wieder und wieder der Natur nachzufahren, und fährt nur der Form entlang, durch die wir sie betrachten.
+
+## 115
+
+Ein Bild hielt uns gefangen. Und heraus konnten wir nicht, denn es lag in unsrer Sprache, und sie schien es uns nur unerbittlich zu wiederholen.
+
+## 116
+
+Wenn die Philosophen ein Wort gebrauchen – »Wissen«, »Sein«, »Gegenstand«, »Ich«, »Satz«, »Name« – und das Wesen des Dings zu erfassen trachten, muß man sich immer fragen: Wird denn dieses Wort in der Sprache, in der es seine Heimat hat, je tatsächlich so gebraucht? –
+
+Wir führen die Wörter von ihrer metaphysischen, wieder auf ihre alltägliche Verwendung zurück.
+
+## 117
+
+Man sagt mir: »Du verstehst doch diesen Ausdruck? Nun also, – in der Bedeutung, die du kennst, gebrauche auch ich ihn.« – Als wäre die Bedeutung ein Dunstkreis, den das Wort mitbringt und in jederlei Verwendung hinübernimmt.
+
+Wenn z.B. Einer sagt, der Satz »Dies ist hier« (wobei er vor sich hin auf einen Gegenstand zeigt) habe für ihn Sinn, so möge er sich fragen, unter welchen besonderen Umständen man diesen Satz tatsächlich verwendet. In diesen hat er dann Sinn.
+
+## 118
+
+Woher nimmt die Betrachtung ihre Wichtigkeit, da sie doch nur alles Interessante, d.h. alles Große und Wichtige, zu zerstören scheint? (Gleichsam alle Bauwerke; indem sie nur Steinbrocken und Schutt übrig läßt.) Aber es sind nur Luftgebäude, die wir zerstören, und wir legen den Grund der Sprache frei, auf dem sie standen.
+
+## 119
+
+Die Ergebnisse der Philosophie sind die Entdeckung irgendeines schlichten Unsinns und Beulen, die sich der Verstand beim Anrennen an die Grenze der Sprache geholt hat. Sie, die Beulen, lassen uns den Wert jener Entdeckung erkennen.
+
+## 120
+
+Wenn ich über Sprache (Wort, Satz etc.) rede, muß ich die Sprache des Alltags reden. Ist diese Sprache etwa zu grob, materiell, für das, was wir sagen wollen? Und wie wird denn eine andere gebildet? – Und wie merkwürdig, daß wir dann mit der unsern überhaupt etwas anfangen können!
+
+Daß ich bei meinen Erklärungen, die Sprache betreffend, schon die volle Sprache (nicht etwa eine vorbereitende, vorläufige) anwenden muß, zeigt schon, daß ich nur Äußerliches über die Sprache vorbringen kann.
+
+Ja, aber wie können uns diese Ausführungen dann befriedigen? – Nun, deine Fragen waren ja auch schon in dieser Sprache abgefaßt; mußten in dieser Sprache ausgedrückt werden, wenn etwas zu fragen war!
+
+Und deine Skrupel sind Mißverständnisse.
+
+Deine Fragen beziehen sich auf Wörter; so muß ich von Wörtern reden.
+
+Man sagt: Es kommt nicht aufs Wort an, sondern auf seine Bedeutung; und denkt dabei an die Bedeutung, wie an eine Sache von der Art des Worts, wenn auch vom Wort verschieden. Hier ist das Wort, hier die Bedeutung. Das Geld und die Kuh, die man dafür kaufen kann. (Anderseits aber: das Geld, und sein Nutzen.)
+
+## 121
+
+Man könnte meinen: wenn die Philosophie vom Gebrauch des Wortes »Philosophie« redet, so müsse es eine Philosophie zweiter Ordnung geben. Aber es ist eben nicht so; sondern der Fall entspricht dem der Rechtschreibelehre, die es auch mit dem Wort »Rechtschreibelehre« zu tun hat, aber dann nicht eine solche zweiter Ordnung ist.
+
+## 122
+
+Es ist eine Hauptquelle unseres Unverständnisses, daß wir den Gebrauch unserer Wörter nicht übersehen. – Unserer Grammatik fehlt es an Übersichtlichkeit. – Die übersichtliche Darstellung vermittelt das Verständnis, welches eben darin besteht, daß wir die ›Zusammenhänge sehen‹. Daher die Wichtigkeit des Findens und des Erfindens von Zwischengliedern.
+
+Der Begriff der übersichtlichen Darstellung ist für uns von grundlegender Bedeutung. Er bezeichnet unsere Darstellungsform, die Art, wie wir die Dinge sehen. (Ist dies eine ›Weltanschauung‹?)
+
+## 123
+
+Ein philosophisches Problem hat die Form: »Ich kenne mich nicht aus.«
+
+## 124
+
+Die Philosophie darf den tatsächlichen Gebrauch der Sprache in keiner Weise antasten, sie kann ihn am Ende also nur beschreiben.
+
+Denn sie kann ihn auch nicht begründen.
+
+Sie läßt alles, wie es ist.
+
+Sie läßt auch die Mathematik, wie sie ist, und keine mathematische Entdeckung kann sie weiterbringen. Ein »führendes Problem der mathematischen Logik« ist für uns ein Problem der Mathematik, wie jedes andere.
+
+## 125
+
+Es ist nicht Sache der Philosophie, den Widerspruch durch eine mathematische, logisch-mathematische, Entdeckung zu lösen. Sondern den Zustand der Mathematik, der uns beunruhigt, den Zustand vor der Lösung des Widerspruchs, übersehbar zu machen. (Und damit geht man nicht etwa einer Schwierigkeit aus dem Wege.)
+
+Die fundamentale Tatsache ist hier: daß wir Regeln, eine Technik, für ein Spiel festlegen, und daß es dann, wenn wir den Regeln folgen, nicht so geht, wie wir angenommen hatten. Daß wir uns also gleichsam in unsern eigenen Regeln verfangen.
+
+Dieses Verfangen in unsern Regeln ist, was wir verstehen, d. h. übersehen wollen.
+
+Es wirft ein Licht auf unsern Begriff des Meinens. Denn es kommt also in jenen Fällen anders, als wir es gemeint, vorausgesehen, hatten. Wir sagen eben, wenn, z.B., der Widerspruch auftritt: »So hab’ ich’s nicht gemeint.«
+
+Die bürgerliche Stellung des Widerspruchs, oder seine Stellung in der bürgerlichen Welt: das ist das philosophische Problem.
+
+## 126
+
+Die Philosophie stellt eben alles bloß hin, und erklärt und folgert nichts. – Da alles offen daliegt, ist auch nichts zu erklären. Denn, was etwa verborgen ist, interessiert uns nicht.
+
+»Philosophie« könnte man auch das nennen, was vor allen neuen Entdeckungen und Erfindungen möglich ist.
+
+## 127
+
+Die Arbeit des Philosophen ist ein Zusammentragen von Erinnerungen zu einem bestimmten Zweck.
+
+## 128
+
+Wollte man Thesen in der Philosophie aufstellen, es könnte nie über sie zur Diskussion kommen, weil Alle mit ihnen einverstanden wären.
+
+## 129
+
+Die für uns wichtigsten Aspekte der Dinge sind durch ihre Einfachheit und Alltäglichkeit verborgen. (Man kann es nicht bemerken, – weil man es immer vor Augen hat.) Die eigentlichen Grundlagen seiner Forschung fallen dem Menschen gar nicht auf. Es sei denn, daß ihm dies einmal aufgefallen ist. – Und das heißt: das, was, einmal gesehen, das Auffallendste und Stärkste ist, fällt uns nicht auf.
+
+## 130
+
+Unsere klaren und einfachen Sprachspiele sind nicht Vorstudien zu einer künftigen Reglementierung der Sprache, – gleichsam erste Annäherungen, ohne Berücksichtigung der Reibung und des Luftwiderstands. Vielmehr stehen die Sprachspiele da als Vergleichsobjekte, die durch Ähnlichkeit und Unähnlichkeit ein Licht in die Verhältnisse unsrer Sprache werfen sollen.
+
+## 131
+
+Nur so nämlich können wir der Ungerechtigkeit, oder Leere unserer Behauptungen entgehen, indem wir das Vorbild als das, was es ist, als Vergleichsobjekt – sozusagen als Maßstab hinstellen; und nicht als Vorurteil, dem die Wirklichkeit entsprechen müsse. (Der Dogmatismus, in den wir beim Philosophieren so leicht verfallen.)
+
+## 132
+
+Wir wollen in unserm Wissen vom Gebrauch der Sprache eine Ordnung herstellen: eine Ordnung zu einem bestimmten Zweck; eine von vielen möglichen Ordnungen; nicht die Ordnung. Wir werden zu diesem Zweck immer wieder Unterscheidungen hervorheben, die unsre gewöhnlichen Sprachformen leicht übersehen lassen. Dadurch kann es den Anschein gewinnen, als sähen wir es als unsre Aufgabe an, die Sprache zu reformieren.
+
+So eine Reform für bestimmte praktische Zwecke, die Verbesserung unserer Terminologie zur Vermeidung von Mißverständnissen im praktischen Gebrauch, ist wohl möglich. Aber das sind nicht die Fälle, mit denen wir es zu tun haben. Die Verwirrungen, die uns beschäftigen, entstehen gleichsam, wenn die Sprache leerläuft, nicht wenn sie arbeitet.
+
+## 133
+
+Wir wollen nicht das Regelsystem für die Verwendung unserer Worte in unerhörter Weise verfeinern oder vervollständigen.
+
+Denn die Klarheit, die wir anstreben, ist allerdings eine vollkommene. Aber das heißt nur, daß die philosophischen Probleme vollkommen verschwinden sollen.
+
+Die eigentliche Entdeckung ist die, die mich fähig macht, das Philosophieren abzubrechen, wann ich will. – Die die Philosophie zur Ruhe bringt, so daß sie nicht mehr von Fragen gepeitscht wird, die sie selbst in Frage stellen. – Sondern es wird nun an Beispielen eine Methode gezeigt, und die Reihe dieser Beispiele kann man abbrechen. – Es werden Probleme gelöst (Schwierigkeiten beseitigt), nicht ein Problem.
+
+---
+
+Es gibt nicht eine Methode der Philosophie, wohl aber gibt es Methoden, gleichsam verschiedene Therapien.
+
+---
+
+## 134
+
+Betrachten wir den Satz: »Es verhält sich so oder so« – wie kann ich sagen, dies sei die allgemeine Form des Satzes? – Es ist vor allem selbst ein Satz, ein deutscher Satz, denn es hat Subjekt und Prädikat. Wie aber wird dieser Satz angewendet – in unsrer alltäglichen Sprache nämlich? Denn nur daher habe ich ihn ja genommen.
+
+Wir sagen z.B.: »Er erklärte mir seine Lage, sagte, es verhalte sich so und so, und er brauche daher einen Vorschuß.« Man kann also insofern sagen, jener Satz stünde für irgendwelche Aussagen. Er wird als Satzschema verwendet; aber das nur, weil er den Bau eines deutschen Satzes hat. Man könnte statt seiner ohneweiters auch sagen: »das und das ist der Fall«, oder »so und so liegen die Sachen«, etc. Man könnte auch, wie in der symbolischen Logik, bloß einen Buchstaben, eine Variable gebrauchen. Aber den Buchstaben »p« wird doch niemand die allgemeine Form eines Satzes nennen. Wie gesagt: »Es verhält sich so und so« war dies nur dadurch, daß er selbst das ist, was man einen deutschen Satz nennt. Aber obschon es ein Satz ist, so hat es doch nur als Satzvariable Verwendung. Zu sagen, dieser Satz stimme mit der Wirklichkeit überein (oder nicht überein), wäre offenbarer Unsinn, und er illustriert also dies, daß ein Merkmal unseres Satzbegriffes der Satzklang ist.
+
+## 135
+
+Aber haben wir denn nicht einen Begriff davon, was ein Satz ist, was wir unter »Satz« verstehen? – Doch; sofern wir auch einen Begriff davon haben, was wir unter »Spiel« verstehen. Gefragt, was ein Satz ist – ob wir nun einem Andern antworten sollen, oder uns selbst – werden wir Beispiele angeben und unter diesen auch, was man induktive Reihen von Sätzen nennen kann; nun, auf diese Weise haben wir einen Begriff vom Satz. (Vergleiche den Begriff des Satzes mit dem Begriff der Zahl.)
+
+## 136
+
+Im Grunde ist die Angabe von »Es verhält sich so und so« als allgemeine Form des Satzes das gleiche, wie die Erklärung: ein Satz sei alles, was wahr oder falsch sein könne. Denn, statt »Es verhält sich ...« hätte ich auch sagen können: »Das und das ist wahr«. (Aber auch: »Das und das ist falsch«.) Nun ist aber
+
+›p‹ ist wahr = p
+
+›p‹ ist falsch = nicht-p.
+
+Und zu sagen, ein Satz sei alles, was wahr oder falsch sein könne, kommt darauf hinaus: Einen Satz nennen wir das, worauf wir in unserer Sprache den Kalkül der Wahrheitsfunktionen anwenden.
+
+Es scheint nun, als bestimmte die Erklärung – Satz sei dasjenige, was wahr oder falsch sein könne – was ein Satz ist, indem sie sage: Was zum Begriff ›wahr‹ paßt, oder, worauf der Begriff ›wahr‹ paßt, das ist ein Satz. Es ist also so, als hätten wir einen Begriff von wahr und falsch, mit dessen Hilfe wir nun bestimmen können, was ein Satz ist und was keiner. Was in den Begriff der Wahrheit eingreift (wie in ein Zahnrad), das ist ein Satz.
+
+Aber das ist ein schlechtes Bild. Es ist, als sagte man »Schachkönig ist die Figur, der man Schach ansagen kann.« Aber das kann doch nur heißen, daß wir in unserm Schachspiel nur dem König Schach geben. So wie der Satz, daß nur ein Satz wahr sein könne, nur sagen kann, daß wir »wahr« und »falsch« nur von dem prädizieren, was wir einen Satz nennen. Und was ein Satz ist, ist in einem Sinne bestimmt durch die Regeln des Satzbaus (der deutschen Sprache z.B.), in einem andern Sinne durch den Gebrauch des Zeichens im Sprachspiel. Und der Gebrauch der Wörter »wahr« und »falsch« kann auch ein Bestandteil dieses Spiels sein; und dann gehört er für uns zum Satz, aber er ›paßt‹ nicht zu ihm. Wie wir auch sagen können, das Schachgeben gehöre zu unserm Begriff vom Schachkönig (gleichsam als ein Bestandteil desselben). Zu sagen, das Schachgeben passe nicht auf unsern Begriff von den Bauern, würde heißen, daß ein Spiel, in welchem den Bauern Schach gegeben wird, in welchem etwa der verliert, der seine Bauern verliert, – daß ein solches Spiel uninteressant wäre, oder dumm, oder zu kompliziert, oder dergleichen.
+
+## 137
+
+Wie ist es denn, wenn wir das Subjekt im Satz bestimmen lernen durch die Frage »Wer oder was ....?« – Hier gibt es doch ein ›Passen‹ des Subjekts zu dieser Frage; denn wie erführen wir sonst durch die Frage, was das Subjekt ist? Wir erfahren es in ähnlicher Weise, wie wir erfahren, welcher Buchstabe im Alphabet nach dem ›K‹ kommt, indem wir uns das Alphabet bis zum ›K‹ hersagen. In wiefern paßt nun das ›L‹ zu jener Buchstabenreihe? – Und insofern könnte man auch sagen, »wahr« und »falsch« passe zum Satz; und man könnte ein Kind lehren, Sätze von andern Ausdrücken zu unterscheiden, indem man ihm sagt: »Frag dich, ob du danach sagen kannst ›ist wahr‹. Wenn diese Worte passen, so ist es ein Satz.« (Und ebenso hätte man sagen können: Frage dich, ob du davor die Worte »Es verhält sich so:« setzen kannst.)
+
+## 138
+
+Kann denn aber nicht die Bedeutung eines Wortes, die ich verstehe, zum Sinn des Satzes, den ich verstehe, passen? Oder die Bedeutung eines Wortes zur Bedeutung eines andern? –– Freilich, wenn die Bedeutung der Gebrauch ist, den wir vom Worte machen, dann hat es keinen Sinn, von so einem Passen zu reden. Nun verstehen wir aber die Bedeutung eines Wortes, wenn wir es hören, oder aussprechen; wir erfassen sie mit einem Schlage; und was wir so erfassen, ist doch etwas Andres als der in der Zeit ausgedehnte ›Gebrauch‹!
+
+---
+
+Muß ich wissen, ob ich ein Wort verstehe? Geschieht es nicht auch, daß ich mir einbilde, ein Wort zu verstehen (nicht anders, als eine Rechenart zu verstehen) und nun darauf komme, daß ich es nicht verstanden habe? (»Ich habe geglaubt, ich weiß, was ›relative‹ und ›absolute‹ Bewegung heißt, aber ich sehe, ich weiß es nicht.«)
+
+---
+
+## 139
+
+Wenn mir jemand z.B. das Wort »Würfel« sagt, so weiß ich, was es bedeutet. Aber kann mir denn die ganze Verwendung des Wortes vorschweben, wenn ich es so verstehe?
+
+Ja, wird aber anderseits die Bedeutung des Wortes nicht auch durch diese Verwendung bestimmt? Und können sich diese Bestimmungen nun widersprechen? Kann, was wir so mit einem Schlageerfassen, mit einer Verwendung übereinstimmen, zu ihr passen, oder nicht zu ihr passen? Und wie kann das, was uns in einem Augenblicke gegenwärtig ist, was uns in einem Augenblick vorschwebt, zu einer Verwendung passen?
+
+Was ist es denn eigentlich, was uns vorschwebt, wenn wir ein Wort verstehen? – Ist es nicht etwas, wie ein Bild? Kann es nicht ein Bild sein?
+
+Nun, nimm an, beim Hören des Wortes »Würfel« schwebt dir ein Bild vor. Etwa die Zeichnung eines Würfels. In wiefern kann dies Bild zu einer Verwendung des Wortes »Würfel« passen, oder nicht zu ihr passen? – Vielleicht sagst du: »das ist einfach; – wenn mir dieses Bild vorschwebt und ich zeige z.B. auf ein dreieckiges Prisma und sage, dies sei ein Würfel, so paßt diese Verwendung nicht zum Bild.« – Aber paßt sie nicht? Ich habe das Beispiel absichtlich so gewählt, daß es ganz leicht ist, sich eine Projektionsmethode vorzustellen, nach welcher das Bild nun doch paßt.
+
+Das Bild des Würfels legte uns allerdings eine gewisse Verwendung nahe, aber ich konnte es auch anders verwenden.
+
+---
+
+\(a) »Ich glaube, das richtige Wort in diesem Fall ist ..... Zeigt das nicht, daß die Bedeutung des Worts ein Etwas ist, das uns vorschwebt, und das gleichsam das genaue Bild ist, welches wir hier brauchen wollen? Denke, ich wählte zwischen den Wörtern »stattlich«, »würdevoll«, »stolz«, »Achtung gebietend«; ist es nicht, als ob ich zwischen den Zeichnungen in einer Mappe wählte? – Nein; daß man vom treffenden Wort redet, zeigt nicht die Existenz eines Etwas, welches etc. Vielmehr ist man geneigt, von jenem bildartigen Etwas zu sprechen, weil man ein Wort als treffend empfinden kann; zwischen Worten oft, wie zwischen ähnlichen, aber doch nicht gleichen Bildern, wählt; weil man Bilder oft statt Wörtern, oder zur Illustration von Wörtern, gebraucht; etc.
+
+\(b) Ich sehe ein Bild: es stellt einen alten Mann dar, der auf einen Stock gestützt einen steilen Weg aufwärts geht. – Und wie das? Konnte es nicht auch so aussehen, wenn er in dieser Stellung die Straße hinunterrutschte? Ein Marsbewohner würde das Bild vielleicht so beschreiben. Ich brauche nicht zu erklären, warum wir es nicht so beschreiben.
+
+---
+
+## 140
+
+Welcher Art war dann aber mein Irrtum; der, welchen man so ausdrücken möchte: ich hätte geglaubt, das Bild zwinge mich nun zu einer bestimmten Verwendung? Wie konnte ich denn das glauben? Was habe ich da geglaubt? Gibt es denn ein Bild, oder etwas einem Bild Ähnliches, das uns zu einer bestimmten Anwendung zwingt, und war mein Irrtum also eine Verwechslung? – Denn wir könnten geneigt sein, uns auch so auszudrücken: wir seien höchstens unter einem psychologischen Zwang, aber unter keinem logischen. Und da scheint es ja völlig, als kennten wir zweierlei Fälle.
+
+Was tat denn mein Argument? Es machte darauf aufmerksam (erinnerte uns daran), daß wir unter Umständen bereit wären, auch einen andern Vorgang »Anwendung des Würfelbildes« zu nennen als nur den, an welchen wir ursprünglich gedacht hatten. Unser ›Glaube, das Bild zwinge uns zu einer bestimmten Anwendung‹, bestand also darin, daß uns nur der eine Fall und kein andrer einfiel. »Es gibt auch eine andere Lösung«, heißt: es gibt auch etwas Anderes, was ich bereit bin »Lösung« zu nennen; worauf ich bereit bin, das und das Bild, die und die Analogie anzuwenden, etc.
+
+Und das Wesentliche ist nun, daß wir sehen, daß uns das Gleiche beim Hören des Wortes vorschweben, und seine Anwendung doch eine andere sein kann. Und hat es dann beide Male die gleiche Bedeutung? Ich glaube, das werden wir verneinen.
+
+## 141
+
+Aber wie, wenn uns nicht einfach das Bild des Würfels, sondern dazu auch die Projektionsmethode vorschwebt? –– Wie soll ich mir das denken? – Etwa so, daß ich ein Schema der Projektionsart vor mir sehe. Ein Bild etwa, das zwei Würfel zeigt, durch Projektionsstrahlen miteinander verbunden. – Aber bringt mich denn das wesentlich weiter? Kann ich mir nun nicht auch verschiedene Anwendungen dieses Schemas denken? –– Ja aber kann mir denn also nicht eine Anwendung vorschweben? – Doch; nur müssen wir uns über unsre Anwendung dieses Ausdrucks klarer werden. Nimm an, ich setze jemandem verschiedene Projektionsmethoden auseinander, damit er sie dann anwende; und fragen wir uns, in welchem Falle wir sagen werden, es schwebe ihm die Projektionsmethode vor, welche ich meine.
+
+Wir erkennen dafür nun offenbar zweierlei Kriterien an: Einerseits das Bild (welcher Art immer es sei), welches ihm zu irgendeiner Zeit vorschwebt; anderseits die Anwendung, die er – im Laufe der Zeit – von dieser Vorstellung macht. (Und ist es hier nicht klar, daß es durchaus unwesentlich ist, daß dieses Bild ihm in der Phantasie vorschwebt, und nicht vielmehr als eine Zeichnung vor ihm liegt, oder als Modell; oder auch von ihm als Modell hergestellt wird?)
+
+Können nun Bild und Anwendung kollidieren? Nun, sie können insofern kollidieren, als uns das Bild eine andere Verwendung erwarten läßt; weil die Menschen im allgemeinen von diesem Bild diese Anwendung machen.
+
+Ich will sagen: Es gibt hier einen normalen Fall und abnormale Fälle.
+
+## 142
+
+Nur in normalen Fällen ist der Gebrauch der Worte uns klar vorgezeichnet; wir wissen, haben keinen Zweifel, was wir in diesem oder jenem Fall zu sagen haben. Je abnormaler der Fall, desto zweifelhafter wird es, was wir nun hier sagen sollen. Und verhielten sich die Dinge ganz anders, als sie sich tatsächlich verhalten –– gäbe es z.B. keinen charakteristischen Ausdruck des Schmerzes, der Furcht, der Freude; würde, was Regel ist, Ausnahme und was Ausnahme, zur Regel; oder würden beide zu Erscheinungen von ungefähr gleicher Häufigkeit –– so verlören unsere normalen Sprachspiele damit ihren Witz. – Die Prozedur, ein Stück Käse auf die Waage zu legen und nach dem Ausschlag der Waage den Preis zu bestimmen, verlöre ihren Witz, wenn es häufiger vorkäme, daß solche Stücke ohne offenbare Ursache plötzlich anwüchsen, oder einschrumpften. Diese Bemerkung wird klarer werden, wenn wir über Dinge, wie das Verhältnis des Ausdrucks zum Gefühl und Ähnliches reden werden.
+
+---
+
+Was wir zur Erklärung der Bedeutung, ich meine der Wichtigkeit, eines Begriffs sagen müssen, sind oft außerordentlich allgemeine Naturtatsachen. Solche, die wegen ihrer großen Allgemeinheit kaum je erwähnt werden.
+
+---
+
+## 143
+
+Betrachten wir nun diese Art von Sprachspiel: B soll auf den Befehl des A Reihen von Zeichen niederschreiben nach einem bestimmten Bildungsgesetz.
+
+Die erste dieser Reihen soll die sein der natürlichen Zahlen im Dezimalsystem. – Wie lernt er dieses System verstehen? – Zunächst werden ihm Zahlenreihen vorgeschrieben und er wird angehalten, sie nachzuschreiben. (Stoß dich nicht an dem Wort »Zahlenreihen«, es ist hier nicht unrichtig verwendet!) Und schon hier gibt es eine normale und eine abnormale Reaktion des Lernenden. – Wir führen ihm etwa zuerst beim Nachschreiben der Reihe 0 bis 9 die Hand; dann aber wird die Möglichkeit der Verständigung daran hängen, daß er nun selbständig weiterschreibt. – Und hier können wir uns, z.B., denken, daß er nun zwar selbständig Ziffern kopiert, aber nicht nach der Reihe, sondern regellos einmal die, einmal die. Und dann hört da die Verständigung auf. – Oder aber er macht ›Fehler‹ in der Reihenfolge. – Der Unterschied zwischen diesem und dem ersten Fall ist natürlich einer der Häufigkeit. – Oder: er macht einen systematischen Fehler, er schreibt z.B. immer nur jede zweite Zahl nach; oder er kopiert die Reihe 0, 1, 2, 3, 4, 5, .... so: 1, 0, 3, 2, 5, 4, ..... Hier werden wir beinahe versucht sein zu sagen, er habe uns falsch verstanden.
+
+Aber merke: Es gibt keine scharfe Grenze zwischen einem regellosen und einem systematischen Fehler. D.h., zwischen dem, was du einen »regellosen«, und dem, was du einen »systematischen Fehler« zu nennen geneigt bist.
+
+Man kann ihm nun vielleicht den systematischen Fehler abgewöhnen (wie eine Unart). Oder, man läßt seine Art des Kopierens gelten und trachtet, ihm die normale Art als eine Abart, Variation, der seinigen beizubringen. – Und auch hier kann die Lernfähigkeit unseres Schülers abbrechen.
+
+## 144
+
+Was meine ich denn, wenn ich sage »hier kann die Lernfähigkeit des Schülers abbrechen«? Teile ich das aus meiner Erfahrung mit? Natürlich nicht. (Auch wenn ich so eine Erfahrung gemacht hätte.) Und was tue ich denn mit jenem Satz? Ich möchte doch, daß du sagst: »Ja, es ist wahr, das könnte man sich auch denken, das könnte auch geschehen!« – Aber wollte ich Einen darauf aufmerksam machen, daß er imstande ist, sich dies vorzustellen? –– Ich wollte dies Bild vor seine Augen stellen, und seine Anerkennung dieses Bildes besteht darin, daß er nun geneigt ist, einen gegebenen Fall anders zu betrachten: nämlich ihn mit dieser Bilderreihe zu vergleichen. Ich habe seine Anschauungsweise geändert. (Indische Mathematiker: »Sieh dies an!«)
+
+## 145
+
+Der Schüler schreibe nun die Reihe 0 bis 9 zu unsrer Zufriedenheit. – Und dies wird nur der Fall sein, wenn ihm dies oft gelingt, nicht, wenn er es einmal unter hundert Versuchen richtig macht. Ich führe ihn nun weiter in der Reihe und lenke seine Aufmerksamkeit auf die Wiederkehr der ersten Reihe in den Einern; dann auf diese Wiederkehr in den Zehnern. (Was nur heißt, daß ich gewisse Betonungen anwende, Zeichen unterstreiche, in der und der Weise untereinander schreibe, und dergleichen.) – Und nun setzt er einmal die Reihe selbständig fort, – oder er tut es nicht. – Aber warum sagst du das; das ist selbstverständlich! – Freilich; ich wollte nur sagen: die Wirkung jeder weiteren Erklärung hänge von seiner Reaktion ab.
+
+Aber nehmen wir nun an, er setzt, nach einigen Bemühungen des Lehrers, die Reihe richtig fort, d. h. so, wie wir es tun. Nun können wir also sagen: er beherrscht das System. – Aber wie weit muß er die Reihe richtig fortsetzen, damit wir das mit Recht sagen können? Es ist klar: du kannst hier keine Begrenzung angeben.
+
+## 146
+
+Wenn ich nun frage: »Hat er das System verstanden, wenn er die Reihe hundert Stellen weit fortsetzt?« Oder – wenn ich in unserm primitiven Sprachspiel nicht von ›verstehen‹ reden soll: Hat er das System inne, wenn er die Reihe bis dorthin richtig fortsetzt? – Da wirst du vielleicht sagen: Das System innehaben (oder auch: verstehen) kann nicht darin bestehen, daß man die Reihe bis zu dieser, oder bis zu jener Zahl fortsetzt; das ist nur die Anwendung des Verstehens. Das Verstehen selbst ist ein Zustand, woraus die richtige Verwendung entspringt.
+
+Und an was denkt man da eigentlich? Denkt man nicht an das Ableiten einer Reihe aus ihrem algebraischen Ausdruck? Oder doch an etwas Analoges? – Aber da waren wir ja schon einmal. Wir können uns ja eben mehr als eine Anwendung eines algebraischen Ausdrucks denken; und jede Anwendungsart kann zwar wieder algebraisch niedergelegt werden, aber dies führt uns selbstverständlich nicht weiter. – Die Anwendung bleibt ein Kriterium des Verständnisses.
+
+## 147
+
+»Aber wie kann sie das sein? Wenn ich sage, ich verstehe das Gesetz einer Reihe, so sage ich es doch nicht auf Grund der Erfahrung, daß ich bis jetzt den algebraischen Ausdruck so und so angewandt habe! Ich weiß doch von mir selbst jedenfalls, daß ich die und die Reihe meine; gleichgültig, wieweit ich sie tatsächlich entwickelt habe.« –
+
+Du meinst also: du weißt die Anwendung des Gesetzes der Reihe, auch ganz abgesehen von einer Erinnerung an die tatsächlichen Anwendungen auf bestimmte Zahlen. Und du wirst vielleicht sagen: »Selbstverständlich! denn die Reihe ist ja unendlich und das Reihenstück, das ich entwickeln konnte, endlich.«
+
+## 148
+
+Worin aber besteht dies Wissen? Laß mich fragen: Wann weißt du diese Anwendung? Immer? Tag und Nacht? Oder nur während du gerade an das Gesetz der Reihe denkst? D. h.: Weißt du sie, wie du auch das ABC und das Einmaleins weißt; oder nennst du ›Wissen‹ einen Bewußtheitszustand oder Vorgang – etwa ein An-etwas-denken, oder dergleichen?
+
+## 149
+
+Wenn man sagt, das Wissen des ABC sei ein Zustand der Seele, so denkt man an den Zustand eines Seelenapparats (etwa unsres Gehirns), mittels welches wir die Äußerungen dieses Wissens erklären. Einen solchen Zustand nennt man eine Disposition. Es ist aber nicht einwandfrei, hier von einem Zustand der Seele zu reden, insofern es für den Zustand zwei Kriterien geben sollte; nämlich ein Erkennen der Konstruktion des Apparates, abgesehen von seinen Wirkungen. (Nichts wäre hier verwirrender als der Gebrauch der Wörter »bewußt« und »unbewußt« für den Gegensatz von Bewußtseinszustand und Disposition. Denn jenes Wortpaar verhüllt einen grammatischen Unterschied.)
+
+---
+
+\(a) »Ein Wort verstehen«, ein Zustand. Aber ein seelischer Zustand? – Betrübnis, Aufregung, Schmerzen, nennen wir seelische Zustände. Mache diese grammatische Betrachtung: Wir sagen
+
+»Er war den ganzen Tagen betrübt«.
+
+»Er war den ganzen Tag in großer Aufregung«.
+
+»Er hatte seit gestern ununterbrochen Schmerzen«. –
+
+Wir sagen auch »Ich verstehe dieses Wort seit gestern«. Aber »ununterbrochen«? – Ja, man kann von einer Unterbrechung des Verstehens reden. Aber in welchen Fällen? Vergleiche: »Wann haben deine Schmerzen nachgelassen?« und »Wann hast du aufgehört, das Wort zu verstehen?«
+
+\(b) Wie, wenn man fragte: Wann kannst du Schach spielen? Immer? oder während du einen Zug machst? Und während jedes Zuges das ganze Schach? – Und wie seltsam, daß Schachspielen können so kurze Zeit braucht, und eine Partie so viel länger.
+
+---
+
+## 150
+
+Die Grammatik des Wortes »wissen« ist offenbar eng verwandt der Grammatik der Worte »können«, »imstande sein«. Aber auch eng verwandt der des Wortes »verstehen«. (Eine Technik ›beherrschen‹.)
