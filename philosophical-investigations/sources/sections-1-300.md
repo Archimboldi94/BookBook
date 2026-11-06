@@ -12,7 +12,7 @@ _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._An
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophische Untersuchungen*. Herausgegeben von G. E. M. Anscombe, R. Rhees, G. H. von Wright. Ludwig Wittgenstein Werkausgabe, Band 1. Suhrkamp Verlag, Frankfurt am Main, 1999, S. 231–485. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
 
-# Philosophische Untersuchungen · §§ 1–250
+# Philosophische Untersuchungen · §§ 1–300
 
 ## 1
 
@@ -1687,3 +1687,259 @@ Sind wir vielleicht voreilig in der Annahme, daß das Lächeln des Säuglings ni
 ## 250
 
 Warum kann ein Hund nicht Schmerzen heucheln? Ist er zu ehrlich? Könnte man einen Hund Schmerzen heucheln lehren? Man kann ihm vielleicht beibringen, bei bestimmten Gelegenheiten wie im Schmerz aufzuheulen, ohne daß er Schmerzen hat. Aber zum eigentlichen Heucheln fehlte diesem Benehmen noch immer die richtige Umgebung.
+
+## 251
+
+Was bedeutet es, wenn wir sagen: »Ich kann mir das Gegenteil davon nicht vorstellen«, oder: »Wie wäre es denn, wenn’s anders wäre?« – Z.B., wenn jemand gesagt hat, daß meine Vorstellungen privat seien; oder, daß nur ich selbst wissen kann, ob ich einen Schmerz empfinde; und dergleichen.
+
+»Ich kann mir das Gegenteil nicht vorstellen« heißt hier natürlich nicht: Meine Vorstellungskraft reicht nicht hin. Wir wehren uns mit diesen Worten gegen etwas, was uns durch seine Form einen Erfahrungssatz vortäuscht, aber in Wirklichkeit ein grammatischer Satz ist.
+
+Aber warum sage ich »Ich kann mir das Gegenteil nicht vorstellen«? Warum nicht: »Ich kann mir, was du sagst, nicht vorstellen«?
+
+Beispiel: »Jeder Stab hat eine Länge«. Das heißt etwa: wir nennen etwas (oder dies) »die Länge eines Stabes« – aber nichts »die Länge einer Kugel«. Kann ich mir nun vorstellen, daß ›jeder Stab eine Länge hat‹? Nun, ich stelle mir eben einen Stab vor; und das ist alles. Nur spielt dieses Bild in Verbindung mit diesem Satz eine ganz andere Rolle als ein Bild in Verbindung mit dem Satz »Dieser Tisch hat die gleiche Länge wie der dort«. Denn hier verstehe ich, was es heißt, sich ein Bild vom Gegenteil zu machen (und es muß kein Vorstellungsbild sein).
+
+Das Bild aber zum grammatikalischen Satz konnte nur etwa zeigen, was man »Länge eines Stabes« nennt. Und was sollte davon das entgegengesetzte Bild sein?
+
+\((Bemerkung über die Verneinung eines Satzes a priori.))
+
+## 252
+
+Wir könnten auf den Satz »Dieser Körper hat eine Ausdehnung« antworten: »Unsinn!« – neigen aber dazu, zu antworten: »Freilich!« – Warum?
+
+## 253
+
+»Der Andre kann nicht meine Schmerzen haben.« – Welches sind meine Schmerzen? Was gilt hier als Kriterium der Identität? Überlege, was es möglich macht, im Falle physikalischer Gegenstände von »zwei genau gleichen« zu sprechen. Z.B. zu sagen: »Dieser Sessel ist nicht derselbe, den du gestern hier gesehen hast, aber er ist ein genau gleicher.«
+
+Soweit es Sinn hat, zu sagen, mein Schmerz sei der gleiche wie seiner, soweit können wir auch beide den gleichen Schmerz haben. (Ja, es wäre auch denkbar, daß zwei Menschen an der gleichen – nicht nur homologen – Stelle Schmerz empfänden. Bei siamesischen Zwillingen, z.B., könnte das der Fall sein.)
+
+Ich habe gesehen, wie jemand in einer Diskussion über diesen Gegenstand sich an die Brust schlug und sagte: »Aber der Andre kann doch nicht DIESEN Schmerz haben!« – Die Antwort darauf ist, daß man durch das emphatische Betonen des Wortes »diesen« kein Kriterium der Identität definiert. Die Emphase spiegelt uns vielmehr nur den Fall vor, daß ein solches Kriterium uns geläufig ist, wir aber daran erinnert werden müssen.
+
+## 254
+
+Auch das Ersetzen des Wortes »gleich« durch »identisch« (z.B.) ist ein typisches Auskunftsmittel in der Philosophie. Als redeten wir von Abschattungen der Bedeutung und es handle sich nur darum, mit unsern Worten die richtige Nuance zu treffen. Und darum handelt sich’s beim Philosophieren nur dort, wo es unsre Aufgabe ist, die Versuchung, eine bestimmte Ausdrucksweise zu gebrauchen, psychologisch genau darzustellen. Was wir in so einem Fall ›zu sagen versucht sind‹, ist natürlich nicht Philosophie; sondern es ist ihr Rohmaterial. Was also ein Mathematiker, z.B., über Objektivität und Realität der mathematischen Tatsachen zu sagen geneigt ist, ist nicht eine Philosophie der Mathematik, sondern etwas, was Philosophie zu behandeln hätte.
+
+## 255
+
+Der Philosoph behandelt eine Frage; wie eine Krankheit.
+
+## 256
+
+Wie ist es nun mit der Sprache, die meine Innern Erlebnisse beschreibt und die nur ich selbst verstehen kann? Wie bezeichne ich meine Empfindungen mit Worten? – So wie wir’s gewöhnlich tun? Sind also meine Empfindungsworte mit meinen natürlichen Empfindungsäußerungen verknüpft? – In diesem Falle ist meine Sprache nicht ›privat‹. Ein Anderer könnte sie verstehen, wie ich. – Aber wie, wenn ich keine natürlichen Äußerungen der Empfindung, sondern nur die Empfindung besäße? Und nun assoziiere ich einfach Namen mit den Empfindungen und verwende diese Namen in einer Beschreibung. –
+
+## 257
+
+»Wie wäre es, wenn die Menschen ihre Schmerzen nicht äußerten (nicht stöhnten, das Gesicht nicht verzögen, etc.)? Dann könnte man einem Kind nicht den Gebrauch des Wortes ›Zahnschmerzen‹ beibringen.« – Nun, nehmen wir an, das Kind sei ein Genie und erfinde selbst einen Namen für die Empfindung! – Aber nun könnte es sich freilich mit diesem Wort nicht verständlich machen. – Also versteht es den Namen, kann aber seine Bedeutung niemand erklären? – Aber was heißt es denn, daß er ›seinen Schmerz benannt hat‹? – Wie hat er das gemacht: den Schmerz benennen?! Und, was immer er getan hat, was hat es für einen Zweck? – Wenn man sagt »Er hat der Empfindung einen Namen gegeben«, so vergißt man, daß schon viel in der Sprache vorbereitet sein muß, damit das bloße Benennen einen Sinn hat. Und wenn wir davon reden, daß einer dem Schmerz einen Namen gibt, so ist die Grammatik des Wortes »Schmerz« hier das Vorbereitete; sie zeigt den Posten an, an den das neue Wort gestellt wird.
+
+## 258
+
+Stellen wir uns diesen Fall vor. Ich will über das Wiederkehren einer gewissen Empfindung ein Tagebuch führen. Dazu assoziiere ich sie mit dem Zeichen »E« und schreibe in einem Kalender zu jedem Tag, an dem ich die Empfindung habe, dieses Zeichen. –– Ich will zuerst bemerken, daß sich eine Definition des Zeichens nicht aussprechen läßt. – Aber ich kann sie doch mir selbst als eine Art hinweisende Definition geben! – Wie? kann ich auf die Empfindung zeigen? – Nicht im gewöhnlichen Sinne. Aber ich spreche, oder schreibe das Zeichen, und dabei konzentriere ich meine Aufmerksamkeit auf die Empfindung – zeige also gleichsam im Innern auf sie. – Aber wozu diese Zeremonie? denn nur eine solche scheint es zu sein! Eine Definition dient doch dazu, die Bedeutung eines Zeichens festzulegen. – Nun, das geschieht eben durch das Konzentrieren der Aufmerksamkeit; denn dadurch präge ich mir die Verbindung des Zeichens mit der Empfindung ein. – »Ich präge sie mir ein« kann doch nur heißen: dieser Vorgang bewirkt, daß ich mich in Zukunft richtig an die Verbindung erinnere. Aber in unserm Falle habe ich ja kein Kriterium für die Richtigkeit. Man möchte hier sagen: richtig ist, was immer mir als richtig erscheinen wird. Und das heißt nur, daß hier von ›richtig‹ nicht geredet werden kann.
+
+## 259
+
+Sind die Regeln der privaten Sprache Eindrucke von Regeln? – Die Waage, auf der man die Eindrücke wägt, ist nicht der Eindruck von einer Waage.
+
+## 260
+
+»Nun, ich glaube, daß dies wieder die Empfindung E ist.« – Du glaubst es wohl zu glauben!
+
+So hätte sich also, der das Zeichen in den Kalender eintrug, gar nichts notiert? – Sieh’s nicht als selbstverständlich an, daß Einer sich etwas notiert, wenn er Zeichen – in einen Kalender z.B. – einträgt. Eine Notiz hat ja eine Funktion; und das »E« hat, soweit, noch keine.
+
+\(Man kann zu sich selber reden. – Spricht Jeder zu sich selbst, der redet, wenn niemand anderer zugegen ist?)
+
+## 261
+
+Welchen Grund haben wir, »E« das Zeichen für eine Empfindung zu nennen? »Empfindung« ist nämlich ein Wort unserer allgemeinen, nicht mir allein verständlichen, Sprache. Der Gebrauch dieses Worts bedarf also einer Rechtfertigung, die Alle verstehen. – Und es hülfe auch nichts, zu sagen: es müsse keine Empfindung sein; wenn er »E« schreibe, habe er Etwas – und mehr könnten wir nicht sagen. Aber »haben« und »etwas« gehören auch zur allgemeinen Sprache. – So gelangt man beim Philosophieren am Ende dahin, wo man nur noch einen unartikulierten Laut ausstoßen möchte. – Aber ein solcher Laut ist ein Ausdruck nur in einem bestimmten Sprachspiel, das nun zu beschreiben ist.
+
+## 262
+
+Man könnte sagen: Wer sich eine private Worterklärung gegeben hat, der muß sich nun im Innern vornehmen, das Wort so und so zu gebrauchen. Und wie nimmt er sich das vor? Soll ich annehmen, daß er die Technik dieser Anwendung erfindet; oder daß er sie schon fertig vorgefunden hat?
+
+## 263
+
+»Ich kann mir (im Innern) doch vornehmen, in Zukunft DAS ›Schmerz‹ zu nennen.« – »Aber hast du es dir auch gewiß vorgenommen? Bist du sicher, daß es dazu genug war, die Aufmerksamkeit auf dein Gefühl zu konzentrieren?« – Seltsame Frage. –
+
+## 264
+
+»Wenn du einmal weißt, was das Wort bezeichnet, verstehst du es, kennst seine ganze Anwendung.«
+
+## 265
+
+Denken wir uns eine Tabelle, die nur in unsrer Vorstellung existiert; etwa ein Wörterbuch. Mittels eines Wörterbuchs kann man die Übersetzung eines Wortes X durch ein Wort Y rechtfertigen. Sollen wir es aber auch eine Rechtfertigung nennen, wenn diese Tabelle nur in der Vorstellung nachgeschlagen wird? – »Nun, es ist dann eben eine subjektive Rechtfertigung.« – Aber die Rechtfertigung besteht doch darin, daß man an eine unabhängige Stelle appelliert. – »Aber ich kann doch auch von einer Erinnerung an eine andre appellieren. Ich weiß (z.B.) nicht, ob ich mir die Abfahrzeit des Zuges richtig gemerkt habe und rufe mir zur Kontrolle das Bild der Seite des Fahrplans ins Gedächtnis. Haben wir hier nicht den gleichen Fall?« – Nein; denn dieser Vorgang muß nun wirklich die richtige Erinnerung hervorrufen. Wäre das Vorstellungsbild des Fahrplans nicht selbst auf seine Richtigkeit zu prüfen, wie könnte es die Richtigkeit der ersten Erinnerung bestätigen? (Als kaufte Einer mehrere Exemplare der heutigen Morgenzeitung, um sich zu vergewissern, daß sie die Wahrheit schreibt.)
+
+In der Vorstellung eine Tabelle nachschlagen, ist so wenig ein Nachschlagen einer Tabelle, wie die Vorstellung des Ergebnisses eines vorgestellten Experiments das Ergebnis eines Experiments ist.
+
+## 266
+
+Ich kann auf die Uhr schaun, um zu sehen, wieviel Uhr es ist. Aber ich kann auch, um zu raten, wieviel Uhr es ist, auf das Zifferblatt einer Uhr sehen; oder zu diesem Zweck die Zeiger einer Uhr verstellen, bis mir die Stellung richtig vorkommt. So kann das Bild der Uhr auf mehr als eine Weise dazu dienen, die Zeit zu bestimmen. (In der Vorstellung auf die Uhr schaun.)
+
+## 267
+
+Angenommen, ich wollte die Dimensionierung einer Brücke, die in meiner Vorstellung gebaut wird, dadurch rechtfertigen, daß ich zuerst in der Vorstellung Zerreißproben mit dem Material der Brücke mache. Dies wäre natürlich die Vorstellung von dem, was man die Rechtfertigung der Dimensionierung einer Brücke nennt. Aber würden wir es auch eine Rechtfertigung der Vorstellung einer Dimensionierung nennen?
+
+## 268
+
+Warum kann meine rechte Hand nicht meiner linken Geld schenken? – Meine rechte Hand kann es in meine linke geben. Meine rechte Hand kann eine Schenkungsurkunde schreiben und meine linke eine Quittung. – Aber die weitern praktischen Folgen wären nicht die einer Schenkung. Wenn die linke Hand das Geld von der rechten genommen hat, etc., wird man fragen: »Nun, und was weiter?« Und das Gleiche könnte man fragen, wenn Einer sich eine private Worterklärung gegeben hätte; ich meine, wenn er sich ein Wort vorgesagt und dabei seine Aufmerksamkeit auf eine Empfindung gerichtet hat.
+
+## 269
+
+Erinnern wir uns daran, daß es gewisse Kriterien des Benehmens dafür gibt, daß Einer ein Wort nicht versteht: daß es ihm nichts sagt, er nichts damit anzufangen weiß. Und Kriterien dafür, daß er das Wort ›zu verstehen glaubt‹, eine Bedeutung mit ihm verbindet, aber nicht die richtige. Und endlich Kriterien dafür, daß er das Wort richtig versteht. Im zweiten Falle könnte man von einem subjektiven Verstehen reden. Und eine »private Sprache« könnte man Laute nennen, die kein Andrer versteht, ich aber ›zu verstehen scheine‹.
+
+## 270
+
+Denken wir uns nun eine Verwendung des Eintragens des Zeichens »E« in mein Tagebuch. Ich mache folgende Erfahrung: Wenn immer ich eine bestimmte Empfindung habe, zeigt mir ein Manometer, daß mein Blutdruck steigt. So werde ich in den Stand gesetzt, ein Steigen meines Blutdrucks ohne Zuhilfenahme eines Apparats anzusagen. Dies ist ein nützliches Ergebnis. Und nun scheint es hier ganz gleichgültig zu sein, ob ich die Empfindung richtig wiedererkannt habe oder nicht. Nehmen wir an, ich irre mich beständig bei ihrer Identifizierung, so macht es gar nichts. Und das zeigt schon, daß die Annahme dieses Irrtums nur ein Schein war. (Wir drehten, gleichsam, an einem Knopf, der aussah, als könnte man mit ihm etwas an der Maschine einstellen; aber er war ein bloßes Zierrat, mit dem Mechanismus gar nicht verbunden.)
+
+Und welchen Grund haben wir hier, »E« die Bezeichnung einer Empfindung zu nennen? Vielleicht die Art und Weise, wie dies Zeichen in diesem Sprachspiel verwendet wird. – Und warum eine »bestimmte Empfindung«, also jedesmal die gleiche? Nun, wir nehmen ja an, wir schrieben jedesmal »E«.
+
+## 271
+
+»Denke dir einen Menschen, der es nicht im Gedächtnis behalten könnte, was das Wort ›Schmerz‹ bedeutet – und der daher immer wieder etwas Anderes so nennt – das Wort aber dennoch in Übereinstimmung mit den gewöhnlichen Anzeichen und Voraussetzungen des Schmerzes verwendete!« – der es also verwendet, wie wir Alle. Hier möchte ich sagen: das Rad gehört nicht zur Maschine, das man drehen kann, ohne daß Anderes sich mitbewegt.
+
+## 272
+
+Das Wesentliche am privaten Erlebnis ist eigentlich nicht, daß Jeder sein eigenes Exemplar besitzt, sondern daß keiner weiß, ob der Andere auch dies hat, oder etwas anderes. Es wäre also die Annahme möglich – obwohl nicht verifizierbar – ein Teil der Menschheit habe eine Rotempfindung, ein anderer Teil eine andere.
+
+## 273
+
+Wie ist es nun mit dem Worte »rot« – soll ich sagen, dies bezeichne etwas ›uns Allen Gegenüberstehendes‹, und Jeder sollte eigentlich außer diesem Wort noch eines haben zur Bezeichnung seiner eigenen Empfindung von Rot? Oder ist es so: das Wort »rot« bezeichnet etwas uns gemeinsam Bekanntes; und für Jeden, außerdem, etwas nur ihm Bekanntes? (Oder vielleicht besser: es bezieht sich auf etwas nur ihm Bekanntes.)
+
+## 274
+
+Es hilft uns natürlich nichts zum Begreifen der Funktion von »rot«, zu sagen, es »beziehe sich auf« statt »es bezeichne« das Private; aber es ist der psychologisch treffendere Ausdruck für ein bestimmtes Erlebnis beim Philosophieren. Es ist, als werfe ich beim Aussprechen des Worts einen Seitenblick auf die eigene Empfindung, gleichsam um mir zu sagen: ich wisse schon, was ich damit meine.
+
+## 275
+
+Schau auf das Blau des Himmels, und sag zu dir selbst »Wie blau der Himmel ist!« – Wenn du es spontan tust – nicht mit philosophischen Absichten – so kommt es dir nicht in den Sinn, dieser Farbeneindruck gehöre nur dir. Und du hast kein Bedenken, diesen Ausruf an einen Andern zu richten. Und wenn du bei den Worten auf etwas zeigst, so ist es der Himmel. Ich meine: du hast nicht das Gefühl des In-dich-selber-Zeigens, das oft das ›Benennen der Empfindung‹ begleitet, wenn man über die ›private Sprache‹ nachdenkt. Du denkst auch nicht, du solltest eigentlich nicht mit der Hand, sondern nur mit der Aufmerksamkeit auf die Farbe zeigen. (Überlege, was es heißt, »mit der Aufmerksamkeit auf etwas zeigen«.)
+
+## 276
+
+»Aber meinen wir denn nicht wenigstens etwas ganz Bestimmtes, wenn wir auf eine Farbe hinschauen und den Farbeindruck benennen?« Es ist doch förmlich, als lösten wir den Farbeindruck, wie ein Häutchen, von dem gesehenen Gegenstand ab. (Dies sollte unsern Verdacht erregen.)
+
+## 277
+
+Aber wie ist es überhaupt möglich, daß man in Versuchung ist zu glauben, man meine einmal mit einem Wort die Allen bekannte Farbe, – einmal: den ›visuellen Eindrucke‹, den ich jetzt erhalte? Wie kann hier auch nur eine Versuchung bestehen? –– Ich wende in diesen Fällen der Farbe nicht die gleiche Art der Aufmerksamkeit zu. Meine ich (wie ich sagen möchte) den mir zu eigen gehörenden Farbeindruck, so vertiefe ich mich in die Farbe – ungefähr so, wie wenn ich mich an einer Farbe ›nicht sattsehen kann‹. Daher ist es leichter, dieses Erlebnis zu erzeugen, wenn man auf eine leuchtende Farbe sieht, oder auf eine Farbenzusammenstellung, die sich uns einprägt.
+
+## 278
+
+»Ich weiß, wie mir die Farbe Grün erscheint« – nun, das hat doch Sinn! – Gewiß; welche Verwendung des Satzes denkst du dir?
+
+## 279
+
+Denke dir Einen, der sagte: »Ich weiß doch, wie hoch ich bin!« und dabei die Hand als Zeichen auf seinen Scheitel legt!
+
+## 280
+
+Einer malt ein Bild, um zu zeigen, wie er sich, etwa, eine Szene auf dem Theater vorstellt. Und nun sage ich: »Dies Bild hat eine doppelte Funktion; es teilt Andern etwas mit, wie Bilder oder Worte eben etwas mitteilen –– aber für den Mitteilenden ist es noch eine Darstellung (oder Mitteilung?) anderer Art: für ihn ist es das Bild seiner Vorstellung, wie es das für keinen Andern sein kann. Sein privater Eindruck des Bildes sagt ihm, was er sich vorgestellt hat; in einem Sinne, in welchem es das Bild für die Andern nicht kann.« – Und mit welchem Recht rede ich in diesem zweiten Falle von Darstellung oder Mitteilung, – wenn diese Worte im ersten Falle richtig angewandt waren?
+
+## 281
+
+»Aber kommt es, was du sagst, nicht darauf hinaus, es gebe, z.B., keinen Schmerz ohne Schmerzbenehmen?« – Es kommt darauf hinaus: man könne nur vom lebenden Menschen, und was ihm ähnlich ist, (sich ähnlich benimmt) sagen, es habe Empfindungen; es sähe; sei blind; höre; sei taub; sei bei Bewußtsein, oder bewußtlos.
+
+## 282
+
+»Aber im Märchen kann doch auch der Topf sehen und hören!« (Gewiß; aber er kann auch sprechen.)
+
+»Aber das Märchen erdichtet doch nur, was nicht der Fall ist; es spricht doch nicht Unsinn.« – So einfach ist es nicht. Ist es Unwahrheit, oder Unsinn, zu sagen, ein Topf rede? Macht man sich ein klares Bild davon, unter welchen Umständen wir von einem Topf sagen würden, er rede? (Auch ein Unsinn-Gedicht ist nicht Unsinn in der Weise, wie etwa das Lallen eines Kindes.)
+
+Ja; wir sagen von Leblosem, es habe Schmerzen: im Spiel mit Puppen z.B. Aber diese Verwendung des Schmerzbegriffs ist eine sekundäre. Stellen wir uns doch den Fall vor, Leute sagten nur von Leblosem, es habe Schmerzen; bedauerten nur Puppen! (Wenn Kinder Eisenbahn spielen, hängt ihr Spiel mit ihrer Kenntnis der Eisenbahn zusammen. Es könnten aber Kinder eines Volksstammes, dem die Eisenbahn unbekannt ist, dies Spiel von andern übernommen haben, und es spielen, ohne zu wissen, daß damit etwas nachgeahmt wird. Man könnte sagen, das Spiel habe für sie nicht den gleichen Sinn wie für uns.)
+
+## 283
+
+Woher kommt uns auch nur der Gedanke: Wesen, Gegenstände, könnten etwas fühlen?
+
+Meine Erziehung hätte mich darauf geführt, indem sie mich auf die Gefühle in mir aufmerksam machte, und nun übertrage ich die Idee auf Objekte außer mir? Ich erkenne, es ist da (in mir) etwas, was ich, ohne mit dem Wortgebrauch der Andern in Widerspruch zu geraten, »Schmerzen« nennen kann? – Auf Steine und Pflanzen, etc. übertrage ich meine Idee nicht.
+
+Könnte ich mir nicht denken, ich hätte fürchterliche Schmerzen und würde, während sie andauern, zu einem Stein? Ja, wie weiß ich, wenn ich die Augen schließe, ob ich nicht zu einem Stein geworden bin? – Und wenn das nun geschehen ist, inwiefern wird der Stein Schmerzen haben? Inwiefern wird man es vom Stein aussagen können? Ja warum soll der Schmerz hier überhaupt einen Träger haben?!
+
+Und kann man von dem Stein sagen, er habe eine Seele und die hat Schmerzen? Was hat eine Seele, was haben Schmerzen, mit einem Stein zu tun?
+
+Nur von dem, was sich benimmt wie ein Mensch, kann man sagen, daß es Schmerzen hat.
+
+Denn man muß es von einem Körper sagen, oder, wenn du willst, von einer Seele, die ein Körper hat. Und wie kann ein Körper eine Seele haben?
+
+## 284
+
+Schau einen Stein an und denk dir, er hat Empfindungen! – Man sagt sich: Wie konnte man auch nur auf die Idee kommen, einem Ding eine Empfindung zuzuschreiben? Man könnte sie ebensogut einer Zahl zuschreiben! – Und nun schau auf eine zappelnde Fliege, und sofort ist diese Schwierigkeit verschwunden und der Schmerz scheint hier angreifen zu können, wo vorher alles gegen ihn, sozusagen, glatt war.
+
+Und so scheint uns auch ein Leichnam dem Schmerz gänzlich unzugänglich. – Unsre Einstellung zum Lebenden ist nicht die zum Toten. Alle unsre Reaktionen sind verschieden. – Sagt Einer: »Das kann nicht einfach daran liegen, daß das Lebendige sich so und so bewegt und das Tote nicht« – so will ich ihm bedeuten, hier liege ein Fall des Übergangs ›von der Quantität zur Qualität‹ vor.
+
+## 285
+
+Denk an das Erkennen des Gesichtsausdrucks. Oder an die Beschreibung des Gesichtsausdrucks, – die nicht darin besteht, daß man die Maße des Gesichts angibt! Denke auch daran, wie man das Gesicht eines Menschen nachahmen kann, ohne das eigene dabei im Spiegel zu sehen.
+
+## 286
+
+Aber ist es nicht absurd, von einem Körper zu sagen, er habe Schmerzen? –– Und warum fühlt man darin eine Absurdität? Inwiefern fühlt meine Hand nicht Schmerzen; sondern ich in meiner Hand?
+
+Was ist das für eine Streitfrage: Ist es der Körper, der Schmerzen fühlt? – Wie ist sie zu entscheiden? Wie macht es sich geltend, daß es nicht der Körper ist? – Nun, etwa so: Wenn Einer in der Hand Schmerzen hat, so sagt’s die Hand nicht (außer sie schreibt’s), und man spricht nicht der Hand Trost zu, sondern dem Leidenden; man sieht ihm in die Augen.
+
+## 287
+
+Wie bin ich von Mitleid für diesen Menschen erfüllt? Wie zeigt es sich, welches Objekt das Mitleid hat? (Das Mitleid, kann man sagen, ist eine Form der Überzeugung, daß ein Andrer Schmerzen hat.)
+
+## 288
+
+Ich erstarre zu Stein und meine Schmerzen dauern an. – Und wenn ich mich nun irrte und es nicht mehr Schmerzen wären! –– Aber ich kann mich doch hier nicht irren; es heißt doch nichts, zu zweifeln, ob ich Schmerzen habe! – D.h.: wenn Einer sagte »Ich weiß nicht, ist das ein Schmerz, was ich habe, oder ist es etwas anderes?«, so dächten wir etwa, er wisse nicht, was das deutsche Wort »Schmerz« bedeute und würden’s ihm erklären. – Wie? Vielleicht durch Gebärden, oder indem wir ihn mit einer Nadel stächen und sagten, »Siehst du, das ist Schmerz«. Er könnte diese Worterklärung, wie jede andere, richtig, falsch, oder gar nicht verstehen. Und welches er tut, wird er im Gebrauch des Wortes zeigen, wie es auch sonst geschieht.
+
+Wenn er nun z.B. sagte: »O, ich weiß, was ›Schmerz‹ heißt, aber ob das Schmerzen sind, was ich jetzt hier habe, das weiß ich nicht« – da würden wir bloß die Köpfe schütteln und müßten seine Worte für eine seltsame Reaktion ansehen, mit der wir nichts anzufangen wissen. (Es wäre etwa, wie wenn wir jemand im Ernste sagen hörten: »Ich erinnere mich deutlich, einige Zeit vor meiner Geburt geglaubt zu haben, .....«)
+
+Jener Ausdruck des Zweifels gehört nicht zu dem Sprachspiel; aber wenn nun der Ausdruck der Empfindung, das menschliche Benehmen, ausgeschlossen ist, dann scheint es, ich dürfe wieder zweifeln. Daß ich hier versucht bin, zu sagen, man könne die Empfindung für etwas andres halten, als was sie ist, kommt daher: Wenn ich das normale Sprachspiel mit dem Ausdruck der Empfindung abgeschafft denke, brauche ich nun ein Kriterium der Identität für sie; und dann bestünde auch die Möglichkeit des Irrtums.
+
+## 289
+
+»Wenn ich sage ›Ich habe Schmerzen‹, bin ich jedenfalls vor mir selbst gerechtfertigt.« – Was heißt das? Heißt es: »Wenn ein Anderer wissen könnte, was ich ›Schmerzen‹ nenne, würde er zugeben, daß ich das Wort richtig verwende«?
+
+Ein Wort ohne Rechtfertigung gebrauchen, heißt nicht, es zu Unrecht gebrauchen.
+
+## 290
+
+Ich identifiziere meine Empfindung freilich nicht durch Kriterien, sondern ich gebrauche den gleichen Ausdruck. Aber damit endet ja das Sprachspiel nicht; damit fängt es an.
+
+Aber fängt es nicht mit der Empfindung an, – die ich beschreibe? – Das Wort »beschreiben« hat uns da vielleicht zum Besten. Ich sage »Ich beschreibe meinen Seelenzustand« und »Ich beschreibe mein Zimmer«. Man muß sich die Verschiedenheiten der Sprachspiele ins Gedächtnis rufen.
+
+## 291
+
+Was wir »Beschreibungen« nennen, sind Instrumente für besondere Verwendungen. Denke dabei an eine Maschinenzeichnung, einen Schnitt, einen Aufriß mit den Maßen, den der Mechaniker vor sich hat. Wenn man an eine Beschreibung als ein Wortbild der Tatsachen denkt, so hat das etwas Irreführendes: Man denkt etwa nur an Bilder, wie sie an unsern Wänden hängen; die schlechtweg abzubilden scheinen, wie ein Ding aussieht, wie es beschaffen ist. (Diese Bilder sind gleichsam müßig.)
+
+## 292
+
+Glaub nicht immer, daß du deine Worte von Tatsachen abliest; diese nach Regeln in Worte abbildest! Denn die Anwendung der Regel im besondern Fall müßtest du ja doch ohne Führung machen.
+
+## 293
+
+Wenn ich von mir selbst sage, ich wisse nur vom eigenen Fall, was das Wort »Schmerz« bedeutet, – muß ich das nicht auch von den Andern sagen? Und wie kann ich denn den einen Fall in so unverantwortlicher Weise verallgemeinern?
+
+Nun, ein Jeder sagt es mir von sich, er wisse nur von sich selbst, was Schmerzen seien! –– Angenommen, es hätte Jeder eine Schachtel, darin wäre etwas, was wir »Käfer« nennen. Niemand kann je in die Schachtel des Andern schaun; und Jeder sagt, er wisse nur vom Anblick seines Käfers, was ein Käfer ist. – Da könnte es ja sein, daß Jeder ein anderes Ding in seiner Schachtel hätte. Ja, man könnte sich vorstellen, daß sich ein solches Ding fortwährend veränderte. – Aber wenn nun das Wort »Käfer« dieser Leute doch einen Gebrauch hätte? – So wäre er nicht der der Bezeichnung eines Dings. Das Ding in der Schachtel gehört überhaupt nicht zum Sprachspiel; auch nicht einmal als ein Etwas: denn die Schachtel könnte auch leer sein. – Nein, durch dieses Ding in der Schachtel kann ›gekürzt werden‹; es hebt sich weg, was immer es ist.
+
+Das heißt: Wenn man die Grammatik des Ausdrucks der Empfindung nach dem Muster von ›Gegenstand und Bezeichnung‹ konstruiert, dann fällt der Gegenstand als irrelevant aus der Betrachtung heraus.
+
+## 294
+
+Wenn du sagst, er sähe ein privates Bild vor sich, das er beschreibe, so hast du immerhin eine Annahme gemacht über das, was er vor sich hat. Und das heißt, daß du es näher beschreiben kannst, oder beschreibst. Gibst du zu, daß du gar keine Ahnung hast, von welcher Art, was er vor sich hat, sein könnte, – was verführt dich dann dennoch zu sagen, er habe etwas vor sich? Ist das nicht, als sagte ich von Einem: »Er hat etwas. Aber ob es Geld, oder Schulden, oder eine leere Kasse ist, weiß ich nicht.«
+
+## 295
+
+Und was soll »Ich weiß nur vom eigenen Fall ....« überhaupt für ein Satz sein? Ein Erfahrungssatz? Nein. – Ein grammatischer?
+
+Ich denke mir also: Jeder sage von sich selbst, er wisse nur vom eigenen Schmerz, was Schmerz sei. – Nicht, daß die Menschen das wirklich sagen, oder auch nur bereit sind zu sagen. Aber wenn nun Jeder es sagte –– es könnte eine Art Ausruf sein. Und wenn er auch als Mitteilung nichtssagend ist, so ist er doch ein Bild; und warum sollten wir uns so ein Bild nicht vor die Seele rufen wollen? Denke dir statt der Worte ein gemaltes allegorisches Bild.
+
+Ja, wenn wir beim Philosophieren in uns schauen, bekommen wir oft gerade so ein Bild zu sehen. Förmlich, eine bildliche Darstellung unsrer Grammatik. Nicht Fakten; sondern gleichsam illustrierte Redewendungen.
+
+## 296
+
+»Ja, aber es ist doch da ein Etwas, was meinen Ausruf des Schmerzes begleitet! Und um dessentwillen ich ihn mache. Und dieses Etwas ist das, was wichtig ist, – und schrecklich.« – Wem teilen wir das nur mit? Und bei welcher Gelegenheit?
+
+## 297
+
+Freilich, wenn das Wasser im Topf kocht, so steigt der Dampf aus dem Topf und auch das Bild des Dampfes aus dem Bild des Topfes. Aber wie, wenn man sagen wollte, im Bild des Topfes müsse auch etwas kochen?
+
+## 298
+
+Daß wir so gerne sagen möchten »Das Wichtige ist das« – indem wir für uns selbst auf die Empfindung deuten, – zeigt schon, wie sehr wir geneigt sind, etwas zu sagen, was keine Mitteilung ist.
+
+## 299
+
+Nicht umhin können – wenn wir uns philosophischen Gedanken hingeben – das und das zu sagen, unwiderstehlich dazu neigen, dies zu sagen, heißt nicht, zu einer Annahme gezwungen sein, oder einen Sachverhalt unmittelbar einsehen, oder wissen.
+
+## 300
+
+Zu dem Sprachspiel mit den Worten »er hat Schmerzen« gehört – möchte man sagen – nicht nur das Bild des Benehmens, sondern auch das Bild des Schmerzes. Oder: nicht nur das Paradigma des Benehmens, sondern auch das des Schmerzes. – Zu sagen »Das Bild des Schmerzes tritt ins Sprachspiel mit dem Worte ›Schmerz‹ ein«, ist ein Mißverständnis. Die Vorstellung des Schmerzes ist kein Bild, und diese Vorstellung ist im Sprachspiel auch nicht durch etwas ersetzbar, was wir ein Bild nennen würden. – Wohl tritt die Vorstellung des Schmerzes in einem Sinn ins Sprachspiel ein; nur nicht als Bild.
