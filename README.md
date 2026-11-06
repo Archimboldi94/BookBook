@@ -4,7 +4,7 @@
 
 ## 当前书目
 
-- **《哲学研究》**，维特根斯坦，第一部第 1—150 节。
+- **《哲学研究》**，维特根斯坦，第一部第 1—200 节。
 - 中文学习自译、核心结论、关键文句精读、问题拆解、论证步骤、三个视角与误读辨析。
 - 精读引句与讲解均为中文，不提供德文切换。
 - 霞鹜文楷随站加载，主色为 `#CC7D5E`，支持手机、深色模式与大字号。
@@ -50,6 +50,6 @@ npm run dev
 
 书库首页：[BookBook](https://archimboldi94.github.io/BookBook/)。
 
-阅读入口：[《哲学研究》前一百五十节](https://archimboldi94.github.io/BookBook/philosophical-investigations/)。
+阅读入口：[《哲学研究》前二百节](https://archimboldi94.github.io/BookBook/philosophical-investigations/)。
 
 仓库已按授权设为公开，并启用了 GitHub Pages。

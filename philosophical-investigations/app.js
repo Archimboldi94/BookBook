@@ -48,13 +48,14 @@
     }
   }
   const sourceImages = {
+    '30px-Par._166.png': '第 166 节：形似反向希腊字母西格玛的陌生符号',
     '120px-PU_48-1.png': '第 48 节：九个位置组成的三乘三网格，按行编号 1 至 9',
     '120px-PU_48-2.png': '第 48 节：三乘三色块图，上行红红黑，中行绿绿绿，下行红白白',
     '250px-Par._86a.png': '第 86 节：四条平行向右的箭头，示意一种表格读取路径',
     '250px-Par._86b.png': '第 86 节：平行箭头加上斜向右上的箭头，示意另一种读取路径'
   };
   function textParagraph(text) {
-    // 只识别底本内已核对的四幅图，其余文本一律转义，避免注入 HTML。
+    // 只识别底本内已核对的图示，其余文本一律转义，避免注入 HTML。
     const fragments = text.split(/(!\[[^\]]*\]\(images\/[^)]+\))/g);
     return fragments.map(fragment => {
       const image = /^!\[[^\]]*\]\(images\/([^)]+)\)$/.exec(fragment);

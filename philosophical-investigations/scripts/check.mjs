@@ -11,7 +11,7 @@ for (const file of scriptPaths) vm.runInContext(fs.readFileSync(new URL(file, ro
 vm.runInContext(fs.readFileSync(new URL('originals.js', root), 'utf8'), sandbox, { filename: 'originals.js' });
 const { LESSONS: lessons, ORIGINALS: originals } = sandbox.window;
 lessons.sort((a, b) => a.id - b.id);
-const total = 150;
+const total = 200;
 assert.equal(lessons.length, total);
 assert.equal(new Set(lessons.map(lesson => lesson.id)).size, total);
 assert.equal(Object.keys(originals).length, total);
@@ -22,6 +22,7 @@ const essaySizes = [];
 for (let id = 1; id <= total; id++) {
   const lesson = lessons[id - 1];
   assert.equal(lesson.id, id);
+  for (const field of ['short', 'title', 'subtitle', 'connection']) assert.ok(typeof lesson[field] === 'string' && lesson[field].trim(), `第 ${id} 节缺少 ${field}`);
   assert.ok(lesson.translation.length > 0 && lesson.translation.every(paragraph => typeof paragraph === 'string' && paragraph.trim()));
   const essay = sandbox.window.ESSAYS[id];
   for (const field of ['core', 'coreMore', 'conceptTitle', 'summary']) assert.ok(essay[field]);
@@ -29,14 +30,20 @@ for (let id = 1; id <= total; id++) {
   assert.equal(essay.opposition.length, 2);
   if (id > 10) assert.ok(essay.closeReading?.length >= 3, `第 ${id} 节缺少中文精读`);
   if (id > 100) assert.ok(essay.closeReading.length >= 4, `第 ${id} 节精读不足四条`);
+  for (const pair of essay.closeReading || []) assert.ok(pair.length === 2 && pair.every(text => typeof text === 'string' && text.trim()), `第 ${id} 节精读解释缺项`);
   for (const [quote] of essay.closeReading || []) assert.ok(/[\u4e00-\u9fff]/.test(quote), `第 ${id} 节精读引句仍为外文`);
+  // 新增章节的精读从本节中文自译连续摘句，避免引句与译文脱节。
+  if (id > 150) {
+    const normalize = text => text.replace(/[\p{P}\p{Z}\s]/gu, '');
+    for (const [quote] of essay.closeReading) assert.ok(normalize(lesson.translation.join('')).includes(normalize(quote)), `第 ${id} 节精读引句与中文译文不符：${quote}`);
+  }
   assert.equal(essay.perspectives.length, 3);
   assert.equal(essay.cautions.length, 3);
   assert.ok(essay.table.rows.length >= 3);
   assert.equal(essay.table.headers.length, 3);
   assert.ok(essay.table.rows.every(row => row.length === 3));
   assert.ok(essay.perspectives.every(row => row.length === 2 && row.every(value => typeof value === 'string' && value.trim())));
-  assert.ok(essay.cautions.every(row => row.length === 2 && row.every(value => typeof value === 'string' && value.trim())));
+  assert.ok(essay.cautions.every(row => row.length === 2 && row.every(value => typeof value === 'string' && value.trim())), `第 ${id} 节误读辨析缺项`);
   const essayText = JSON.stringify(essay), chineseLength = (essayText.match(/[\u4e00-\u9fff]/g) || []).length;
   essaySizes.push({ id, chineseLength });
   if (id > 10) assert.ok(chineseLength >= 1800, `第 ${id} 节解释过短：${chineseLength} 个汉字`);
