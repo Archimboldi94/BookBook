@@ -12,7 +12,7 @@ _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._An
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophische Untersuchungen*. Herausgegeben von G. E. M. Anscombe, R. Rhees, G. H. von Wright. Ludwig Wittgenstein Werkausgabe, Band 1. Suhrkamp Verlag, Frankfurt am Main, 1999, S. 231–485. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
 
-# Philosophische Untersuchungen · §§ 1–200
+# Philosophische Untersuchungen · §§ 1–250
 
 ## 1
 
@@ -1413,3 +1413,277 @@ Einen Satz verstehen, heißt, eine Sprache verstehen. Eine Sprache verstehen, he
 ## 200
 
 Es ist natürlich denkbar, daß in einem Volke, das Spiele nicht kennt, zwei Leute sich an ein Schachbrett setzen und die Züge einer Schachpartie ausführen; ja auch mit allen seelischen Begleiterscheinungen. Und sähen wir dies, so würden wir sagen, sie spielten Schach. Aber nun denk dir eine Schachpartie nach gewissen Regeln in eine Reihe von Handlungen übersetzt, die wir nicht gewöhnt sind, mit einem Spiel zu assoziieren, – etwa ein Ausstoßen von Schreien und Stampfen mit den Füßen. Und jene Beiden sollen nun, statt die uns geläufige Form des Schach zu spielen, schreien und stampfen; und zwar so, daß diese Vorgänge sich nach geeigneten Regeln in eine Schachpartie übersetzen ließen. Wären wir nun noch geneigt, zu sagen, sie spielten ein Spiel; und mit welchem Recht könnte man das sagen?
+
+## 201
+
+Unser Paradox war dies: eine Regel könnte keine Handlungsweise bestimmen, da jede Handlungsweise mit der Regel in Übereinstimmung zu bringen sei. Die Antwort war: Ist jede mit der Regel in Übereinstimmung zu bringen, dann auch zum Widerspruch. Daher gäbe es hier weder Übereinstimmung noch Widerspruch.
+
+Daß da ein Mißverständnis ist, zeigt sich schon darin, daß wir in diesem Gedankengang Deutung hinter Deutung setzen; als beruhige uns eine jede wenigstens für einen Augenblick, bis wir an eine Deutung denken, die wieder hinter dieser liegt. Dadurch zeigen wir nämlich, daß es eine Auffassung einer Regel gibt, die nicht eine Deutung ist; sondern sich, von Fall zu Fall der Anwendung, in dem äußert, was wir »der Regel folgen«, und was wir »ihr entgegenhandeln« nennen.
+
+Darum besteht eine Neigung, zu sagen: jedes Handeln nach der Regel sei ein Deuten. »Deuten« aber sollte man nur nennen: einen Ausdruck der Regel durch einen anderen ersetzen.
+
+## 202
+
+Darum ist ›der Regel folgen‹ eine Praxis. Und der Regel zu folgen glauben ist nicht: der Regel folgen. Und darum kann man nicht der Regel ›privatim‹ folgen, weil sonst der Regel zu folgen glauben dasselbe wäre, wie der Regel folgen.
+
+## 203
+
+Die Sprache ist ein Labyrinth von Wegen. Du kommst von einer Seite und kennst dich aus; du kommst von einer andern zur selben Stelle, und kennst dich nicht mehr aus.
+
+## 204
+
+Ich kann etwa, wie die Sachen stehen, ein Spiel erfinden, das nie von jemandem gespielt wird. – Wäre aber auch dies möglich: Die Menschheit habe nie Spiele gespielt; einmal aber hat Einer ein Spiel erfunden, – das dann allerdings nie gespielt wurde?
+
+## 205
+
+»Das ist ja das Merkwürdige an der Intention, am seelischen Vorgang, daß für ihn das Bestehen der Gepflogenheit, der Technik, nicht nötig ist. Daß es z.B. denkbar ist, zwei Leute spielten in einer Welt, in der sonst nicht gespielt wird, eine Schachpartie, ja auch nur den Anfang einer Schachpartie, – und würden dann gestört.«
+
+Ist aber das Schachspiel nicht durch seine Regeln definiert? Und wie sind diese Regeln im Geist dessen gegenwärtig, der beabsichtigt, Schach zu spielen?
+
+## 206
+
+Einer Regel folgen, das ist analog dem: einen Befehl befolgen. Man wird dazu abgerichtet und man reagiert auf ihn in bestimmter Weise. Aber wie, wenn nun der Eine so, der Andere anders auf Befehl und Abrichtung reagiert? Wer hat dann Recht?
+
+Denke, du kämst als Forscher in ein unbekanntes Land mit einer dir gänzlich fremden Sprache. Unter welchen Umständen würdest du sagen, daß die Leute dort Befehle geben, Befehle verstehen, befolgen, sich gegen Befehle auflehnen, usw.?
+
+Die gemeinsame menschliche Handlungsweise ist das Bezugssystem, mittels dessen wir uns eine fremde Sprache deuten.
+
+## 207
+
+Denken wir uns, die Leute in jenem Land verrichteten gewöhnliche menschliche Tätigkeiten und bedienen sich dabei, wie es scheint, einer artikulierten Sprache. Sieht man ihrem Treiben zu, so ist es verständlich, erscheint uns ›logisch‹. Versuchen wir aber, ihre Sprache zu erlernen, so finden wir, daß es unmöglich ist. Es besteht nämlich bei ihnen kein regelmäßiger Zusammenhang des Gesprochenen, der Laute, mit den Handlungen; dennoch aber sind diese Laute nicht überflüssig; denn knebeln wir z.B. einen dieser Leute, so hat dies die gleichen Folgen, wie bei uns: ohne jene Laute geraten ihre Handlungen in Verwirrung – wie ich mich ausdrücken will.
+
+Sollen wir sagen, diese Leute hätten eine Sprache; Befehle, Mitteilungen, usw.?
+
+Zu dem, was wir »Sprache« nennen, fehlt die Regelmäßigkeit.
+
+## 208
+
+So erkläre ich also, was »Befehl« und was »Regel« heißt, durch »Regelmäßigkeit«? – Wie erkläre ich jemandem die Bedeutung von »regelmäßig«, »gleichförmig«, »gleich«? – Einem der, sagen wir, nur Französisch spricht, werde ich diese Wörter durch die entsprechenden französischen erklären. Wer aber diese Begriffe noch nicht besitzt, den werde ich die Worte durch Beispiele und durch Übung gebrauchen lehren. – Und dabei teile ich ihm nicht weniger mit, als ich selber weiß.
+
+Ich werde ihm also in diesem Unterricht gleiche Farben, gleiche Längen, gleiche Figuren zeigen, ihn sie finden und herstellen lassen, usw. Ich werde ihn etwa dazu anleiten, Reihenornamente auf einen Befehl hin ›gleichmäßig‹ fortzusetzen. – Und auch dazu, Progressionen fortzusetzen. Also etwa auf . .. ... so fortzufahren: .... ..... ...... .
+
+Ich mach’s ihm vor, er macht es mir nach; und ich beeinflusse ihn durch Äußerungen der Zustimmung, der Ablehnung, der Erwartung, der Aufmunterung. Ich lasse ihn gewähren, oder halte ihn zurück; usw.
+
+Denke, du wärest Zeuge eines solchen Unterrichts. Es würde darin kein Wort durch sich selbst erklärt, kein logischer Zirkel gemacht.
+
+Auch die Ausdrücke »und so weiter« und »und so weiter ad infinitum« werden in diesem Unterricht erklärt werden. Es kann dazu unter anderem auch eine Gebärde dienen. Die Gebärde, die bedeutet »fahr so fort!«, oder »und so weiter« hat eine Funktion, vergleichbar der des Zeigens auf einen Gegenstand, oder auf einen Ort.
+
+Es ist zu unterscheiden: das »usw.«, das eine Abkürzung der Schreibweise ist, von demjenigen, welches dies nicht ist. Das »usw. ad inf.« ist keine Abkürzung der Schreibweise. Daß wir nicht alle Stellen von π anschreiben können, ist nicht eine menschliche Unzulänglichkeit, wie Mathematiker manchmal glauben.
+
+Ein Unterricht, der bei den vorgeführten Beispielen stehen bleiben will, unterscheidet sich von einem, der über sie ›hinausweist‹.
+
+## 209
+
+»Aber reicht denn nicht das Verständnis weiter als alle Beispiele?« – Ein sehr merkwürdiger Ausdruck, und ganz natürlich! –
+
+Aber ist das alles? Gibt es nicht eine noch tiefere Erklärung; oder muß nicht doch das Verständnis der Erklärung tiefer sein? – Ja, habe ich denn selbst ein tieferes Verständnis? Habe ich mehr, als ich in der Erklärung gebe? – Woher aber dann das Gefühl, ich hätte mehr?
+
+Ist es, wie wenn ich das nicht Begrenzte als Länge deute, die über jede Länge hinausreicht?
+
+## 210
+
+»Aber erklärst du ihm wirklich, was du selber verstehst? Läßt du ihn das Wesentliche nicht erraten? Du gibst ihm Beispiele, – er aber muß ihre Tendenz erraten, also deine Absicht.« – Jede Erklärung, die ich mir selbst geben kann, gebe ich auch ihm. – »Er errät, was ich meine« würde heißen: ihm schweben verschiedene Deutungen meiner Erklärung vor, und errät auf eine von ihnen. Er könnte also in diesem Falle fragen; und ich könnte, und würde, ihm antworten.
+
+## 211
+
+»Wie immer du ihn im Fortführen des Reihenornaments unterrichtest, – wie kann er wissen, wie er selbständig fortzusetzen hat?« – Nun, wie weiß ich’s? –– Wenn das heißt »Habe ich Gründe?«, so ist die Antwort: die Gründe werden mir bald ausgehen. Und ich werde dann, ohne Gründe, handeln.
+
+## 212
+
+Wenn jemand, den ich fürchte, mir den Befehl gibt, die Reihe fortzusetzen, so werde ich schleunig, mit völliger Sicherheit, handeln, und das Fehlen der Gründe stört mich nicht.
+
+## 213
+
+»Aber dieser Reihenanfang konnte offenbar verschieden gedeutet werden (z.B. durch algebraische Ausdrücke) und du mußtest also erst eine solche Deutung wählen.« – Durchaus nicht! Es war, unter Umständen, ein Zweifel möglich. Aber das sagt nicht, daß ich gezweifelt habe, oder auch nur zweifeln konnte. (Damit steht im Zusammenhang, was über die psychologische ›Atmosphäre‹ eines Vorgangs zu sagen ist.)
+
+Nur Intuition konnte diesen Zweifel heben? – Wenn sie eine innere Stimme ist, – wie weiß ich, wie ich ihr folgen soll? Und wie weiß ich, daß sie mich nicht irreleitet? Denn, kann sie mich richtig leiten, dann kann sie mich auch irreleiten.
+
+\((Die Intuition eine unnötige Ausrede.))
+
+## 214
+
+Ist eine Intuition zum Entwickeln der Reihe 1 2 3 4 ... nötig, dann auch zum Entwickeln der Reihe 2 2 2 2 ... .
+
+## 215
+
+Aber ist nicht wenigstens gleich: gleich?
+
+Für die Gleichheit scheinen wir ein unfehlbares Paradigma zu haben in der Gleichheit eines Dinges mit sich selbst. Ich will sagen: »Hier kann es doch nicht verschiedene Deutungen geben. Wenn er ein Ding vor sich sieht, so sieht er auch Gleichheit.«
+
+Also sind zwei Dinge gleich, wenn sie so sind, wie ein Ding? Und wie soll ich nun das, was mir das eine Ding zeigt, auf den Fall der zwei anwenden?
+
+## 216
+
+»Ein Ding ist mit sich selbst identisch.« – Es gibt kein schöneres Beispiel eines nutzlosen Satzes, der aber doch mit einem Spiel der Vorstellung verbunden ist. Es ist, als legten wir das Ding, in der Vorstellung, in seine eigene Form hinein, und sähen, daß es paßt.
+
+Wir könnten auch sagen: »Jedes Ding paßt in sich selbst.« – Oder anders: »Jedes Ding paßt in seine eigene Form hinein.« Man schaut dabei ein Ding an und stellt sich vor, daß der Raum dafür ausgespart war und es nun genau hineinpaßt.
+
+›Paßt‹ dieser Flecke ![](images/23px-Par._216.png)\  in seine weiße Umgebung? – Aber genau so würde es aussehen, wenn statt seiner erst ein Loch gewesen wäre, und er nun hineinpaßte. Mit dem Ausdruck »er paßt« wird eben nicht einfach dies Bild beschrieben. Nicht einfach diese Situation.
+
+»Jeder Farbfleck paßt genau in seine Umgebung« ist ein etwas spezialisierter Satz der Identität.
+
+## 217
+
+»Wie kann ich einer Regel folgen?« – wenn das nicht eine Frage nach den Ursachen ist, so ist es eine nach der Rechtfertigung dafür, daß ich so nach ihr handle.
+
+Habe ich die Begründungen erschöpft, so bin ich nun auf dem harten Felsen angelangt, und mein Spaten biegt sich zurück. Ich bin dann geneigt zu sagen: »So handle ich eben.«
+
+\(Erinnere dich, daß wir manchmal Erklärungen fordern nicht ihres Inhalts wegen, sondern der Form der Erklärung wegen. Unsere Forderung ist eine architektonische; die Erklärung eine Art Scheingesims, das nichts trägt.)
+
+## 218
+
+Woher die Idee, es wäre die angefangene Reihe ein sichtbares Stück unsichtbar bis ins Unendliche gelegter Geleise? Nun, statt der Regel könnten wir uns Geleise denken. Und der nicht begrenzten Anwendung der Regel entsprechen unendlich lange Geleise.
+
+## 219
+
+»Die Übergänge sind eigentlich alle schon gemacht« heißt: ich habe keine Wahl mehr. Die Regel, einmal mit einer bestimmten Bedeutung gestempelt, zieht die Linien ihrer Befolgung durch den ganzen Raum. –– Aber wenn so etwas wirklich der Fall wäre, was hülfe es mir?
+
+Nein; meine Beschreibung hatte nur Sinn, wenn sie symbolisch zu verstehen war. – So kommt es mir vor – sollte ich sagen.
+
+Wenn ich der Regel folge, wähle ich nicht.
+
+Ich folge der Regel blind.
+
+## 220
+
+Welchen Zweck hat aber jener symbolische Satz? Er sollte einen Unterschied hervorheben zwischen kausaler Bedingtheit und logischer Bedingtheit.
+
+## 221
+
+Mein symbolischer Ausdruck war eigentlich eine mythologische Beschreibung des Gebrauchs einer Regel.
+
+## 222
+
+»Die Linie gibt’s mir ein, wie ich gehen soll.« – Aber das ist natürlich nur ein Bild. Und urteile ich, sie gebe mir, gleichsam verantwortungslos, dies oder das ein, so würde ich nicht sagen, ich folgte ihr als einer Regel.
+
+## 223
+
+Man fühlt nicht, daß man immer des Winkes (der Einflüsterung) der Regel gewärtig sein muß. Im Gegenteil. Wir sind nicht gespannt darauf, was sie uns wohl jetzt sagen wird, sondern sie sagt uns immer dasselbe, und wir tun, was sie uns sagt.
+
+Man könnte dem, den man abrichtet, sagen: »Sieh, ich tue immer das Gleiche: ich .....«
+
+## 224
+
+Das Wort »Übereinstimmung« und das Wort »Regel« sind miteinander verwandt, sie sind Vettern. Lehre ich Einen den Gebrauch des einen Wortes, so lernt er damit auch den Gebrauch des andern.
+
+## 225
+
+Die Verwendung des Wortes »Regel« ist mit der Verwendung des Wortes »gleich« verwoben. (Wie die Verwendung von »Satz« mit der Verwendung von »wahr«.)
+
+## 226
+
+Nimm an, Einer folgt der Reihe 1, 3, 5, 7, .... indem er die Reihe der 2x + 1 hinschreibt. Und er fragte sich: »aber tue ich auch immer das Gleiche, oder jedesmal etwas anderes?«
+
+Wer von einem Tag auf den andern verspricht »Morgen will ich dich besuchen« – sagt der jeden Tag das Gleiche; oder jeden Tag etwas anderes?
+
+## 227
+
+Hätte es einen Sinn zu sagen: »Wenn er jedesmal etwas anderes täte, würden wir nicht sagen: er folge einer Regel«? Das hat keinen Sinn.
+
+## 228
+
+»Eine Reihe hat für uns ein Gesicht!« – Wohl; aber welches? Nun doch das algebraische, und das eines Stücks der Entwicklung. Oder hat sie sonst noch eins? – »Aber in dem liegt doch schon alles!« – Aber das ist keine Feststellung über das Reihenstück, oder über etwas, was wir darin erblicken; sondern der Ausdruck dafür, daß wir nur auf den Mund der Regel schauen und tun, und an keine weitere Anleitung appellieren.
+
+## 229
+
+Ich glaube, im Reihenstück ganz fein eine Zeichnung wahrzunehmen, einen charakteristischen Zug, der nur noch des »usw.« bedarf, um in die Unendlichkeit zu reichen.
+
+## 230
+
+»Die Linie gibt’s mir ein, wie ich gehen soll«: das paraphrasiert nur: sie sei meine letzte Instanz dafür, wie ich gehen soll.
+
+## 231
+
+»Aber du siehst doch ....!« Nun, das ist eben die charakteristische Äußerung Eines, der von der Regel gezwungen ist.
+
+## 232
+
+Nimm an, eine Regel gebe mir ein, wie ich ihr folgen soll; d.h., wenn ich der Linie mit den Augen nachgehe, so sagt mir nun eine innere Stimme: »Zieh so!« – Was ist der Unterschied zwischen diesem Vorgang, einer Art Inspiration zu folgen, und dem, einer Regel zu folgen? Denn sie sind doch nicht das Gleiche. In dem Fall der Inspiration warte ich auf die Anweisung. Ich werde einen Andern nicht meine ›Technik‹ lehren können, der Linie zu folgen. Es sei denn, ich lehrte ihn eine Art des Hinhorchens, der Rezeptivität. Aber dann kann ich natürlich nicht verlangen, daß er der Linie so folge wie ich.
+
+Dies sind nicht meine Erfahrungen vom Handeln nach einer Inspiration und nach einer Regel; sondern grammatische Anmerkungen.
+
+## 233
+
+Man könnte sich auch so einen Unterricht in einer Art von Arithmetik denken. Die Kinder können dann, ein jedes auf seine Weise, rechnen, – solange sie nur auf die innere Stimme horchen und ihr folgen. Dieses Rechnen wäre wie ein Komponieren.
+
+## 234
+
+Aber könnten wir nicht auch rechnen, wie wir rechnen (Alle übereinstimmend, etc.), und doch bei jedem Schritt das Gefühl haben, von den Regeln wie von einem Zauber geleitet zu werden; erstaunt darüber vielleicht, daß wir übereinstimmen? (Der Gottheit etwa für diese Übereinstimmung dankend.)
+
+## 235
+
+Daraus siehst du nur, was alles zu der Physiognomie desjenigen gehört, was wir im alltäglichen Leben »einer Regel folgen« nennen.
+
+## 236
+
+Die Kunstrechner, die zum richtigen Resultat gelangen, aber nicht sagen können, wie. Sollen wir sagen, sie rechnen nicht? (Eine Familie von Fällen.)
+
+## 237
+
+Denke dir, Einer folgte einer Linie als Regel auf diese Weise: Er hält einen Zirkel, dessen eine Spitze er der Regel-Linie entlang führt, während die andre Spitze die Linie zieht, welche der Regel folgt. Und während er so der Regel entlang fährt, verändert er die Öffnung des Zirkels, wie es scheint mit großer Genauigkeit, wobei er immer auf die Regel schaut, als bestimme sie sein Tun. Wir nun, die ihm zusehen, sehen keinerlei Regelmäßigkeit in diesem Öffnen und Schließen des Zirkels. Wir können seine Art, der Linie zu folgen, von ihm nicht lernen. Wir würden hier vielleicht wirklich sagen: »Die Vorlage scheint ihm einzugeben, wie er zu gehen hat. Aber sie ist keine Regel.«
+
+## 238
+
+Damit es mir erscheinen kann, als hätte die Regel alle ihre Folgesätze zum Voraus erzeugt, müssen sie mir selbstverständlich sein. So selbstverständlich, wie es mir ist, diese Farbe »blau« zu nennen. (Kriterien dafür, daß dies mir ›selbstverständlich‹ ist.)
+
+## 239
+
+Wie soll er wissen, welche Farbe er zu wählen hat, wenn er »rot« hört? – Sehr einfach: er soll die Farbe nehmen, deren Bild ihm beim Hören des Wortes einfällt. – Aber wie soll er wissen, welche Farbe das ist, ›deren Bild ihm einfällt‹? Braucht es dafür ein weiteres Kriterium? (Es gibt allerdings einen Vorgang: die Farbe wählen, die einem beim Wort .... einfällt.)
+
+»›Rot‹ bedeutet die Farbe, die mir beim Hören des Wortes ›rot‹ einfällt« – wäre eine Definition. Keine Erklärung des Wesens der Bezeichnung durch ein Wort.
+
+## 240
+
+Es bricht kein Streit darüber aus (etwa zwischen Mathematikern), ob der Regel gemäß vorgegangen wurde oder nicht. Es kommt darüber z.B. nicht zu Tätlichkeiten. Das gehört zu dem Gerüst, von welchem aus unsere Sprache wirkt (z.B. eine Beschreibung gibt).
+
+## 241
+
+»So sagst du also, daß die Übereinstimmung der Menschen entscheide, was richtig und was falsch ist?« – Richtig und falsch ist, was Menschen sagen; und in der Sprache stimmen die Menschen überein. Dies ist keine Übereinstimmung der Meinungen, sondern der Lebensform.
+
+## 242
+
+Zur Verständigung durch die Sprache gehört nicht nur eine Übereinstimmung in den Definitionen, sondern (so seltsam dies klingen mag) eine Übereinstimmung in den Urteilen. Dies scheint die Logik aufzuheben; hebt sie aber nicht auf. – Eines ist, die Meßmethode zu beschreiben, ein Anderes, Messungsergebnisse zu finden und auszusprechen. Aber was wir »messen« nennen, ist auch durch eine gewisse Konstanz der Messungsergebnisse bestimmt.
+
+## 243
+
+Ein Mensch kann sich selbst ermutigen, sich selbst befehlen, gehorchen, tadeln, bestrafen, eine Frage vorlegen und auf sie antworten. Man könnte sich also auch Menschen denken, die nur monologisch sprächen. Ihre Tätigkeiten mit Selbstgesprächen begleiteten. – Einem Forscher, der sie beobachtet und ihre Reden belauscht, könnte es gelingen, ihre Sprache in die unsre zu übersetzen. (Er wäre dadurch in den Stand gesetzt, Handlungen dieser Leute richtig vorherzusagen, denn er hört sie auch Vorsätze und Entschlüsse fassen.)
+
+Wäre aber auch eine Sprache denkbar, in der Einer seine inneren Erlebnisse – seine Gefühle, Stimmungen, etc. – für den eigenen Gebrauch aufschreiben, oder aussprechen könnte? – Können wir denn das in unserer gewöhnlichen Sprache nicht tun? – Aber so meine ich’s nicht. Die Wörter dieser Sprache sollen sich auf das beziehen, wovon nur der Sprechende wissen kann; auf seine unmittelbaren, privaten, Empfindungen. Ein Anderer kann diese Sprache also nicht verstehen.
+
+## 244
+
+Wie beziehen sich Wörter auf Empfindungen? – Darin scheint kein Problem zu liegen; denn reden wir nicht täglich von Empfindungen, und benennen sie? Aber wie wird die Verbindung des Namens mit dem Benannten hergestellt? Die Frage ist die gleiche wie die: wie lernt ein Mensch die Bedeutung der Namen von Empfindungen? Z.B. des Wortes »Schmerz«. Dies ist eine Möglichkeit: Es werden Worte mit dem ursprünglichen, natürlichen, Ausdruck der Empfindung verbunden und an dessen Stelle gesetzt. Ein Kind hat sich verletzt, es schreit; und nun sprechen ihm die Erwachsenen zu und bringen ihm Ausrufe und später Sätze bei. Sie lehren das Kind ein neues Schmerzbenehmen.
+
+»So sagst du also, daß das Wort ›Schmerz‹ eigentlich das Schreien bedeute?« – Im Gegenteil; der Wortausdruck des Schmerzes ersetzt das Schreien und beschreibt es nicht.
+
+## 245
+
+Wie kann ich denn mit der Sprache noch zwischen die Schmerzäußerung und den Schmerz treten wollen?
+
+## 246
+
+Inwiefern sind nun meine Empfindungen privat? – Nun, nur ich kann wissen, ob ich wirklich Schmerzen habe; der Andere kann es nur vermuten. – Das ist in einer Weise falsch, in einer andern unsinnig. Wenn wir das Wort »wissen« gebrauchen, wie es normalerweise gebraucht wird (und wie sollen wir es denn gebrauchen!), dann wissen es Andre sehr häufig, wenn ich Schmerzen habe. – Ja, aber doch nicht mit der Sicherheit, mit der ich selbst es weiß! – Von mir kann man überhaupt nicht sagen (außer etwa im Spaß), ich wisse, daß ich Schmerzen habe. Was soll es denn heißen – außer etwa, daß ich Schmerzen habe?
+
+Man kann nicht sagen, die Andern lernen meine Empfindung nur durch mein Benehmen, – denn von mir kann man nicht sagen, ich lernte sie. Ich habe sie.
+
+Das ist richtig: es hat Sinn, von Andern zu sagen, sie seien im Zweifel darüber, ob ich Schmerzen habe; aber nicht, es von mir selbst zu sagen.
+
+## 247
+
+»Nur du kannst wissen, ob du die Absicht hattest.« Das könnte man jemandem sagen, wenn man ihm die Bedeutung des Wortes »Absicht« erklärt. Es heißt dann nämlich: so gebrauchen wir es.
+
+\(Und »wissen« heißt hier, daß der Ausdruck der Ungewißheit sinnlos ist.)
+
+## 248
+
+Der Satz »Empfindungen sind privat« ist vergleichbar dem: »Patience spielt man allein.«
+
+## 249
+
+Sind wir vielleicht voreilig in der Annahme, daß das Lächeln des Säuglings nicht Verstellung ist? – Und auf welcher Erfahrung beruht unsre Annahme?
+
+\(Das Lügen ist ein Sprachspiel, das gelernt sein will, wie jedes andre.)
+
+## 250
+
+Warum kann ein Hund nicht Schmerzen heucheln? Ist er zu ehrlich? Könnte man einen Hund Schmerzen heucheln lehren? Man kann ihm vielleicht beibringen, bei bestimmten Gelegenheiten wie im Schmerz aufzuheulen, ohne daß er Schmerzen hat. Aber zum eigentlichen Heucheln fehlte diesem Benehmen noch immer die richtige Umgebung.

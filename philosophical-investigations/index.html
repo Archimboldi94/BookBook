@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#faf8f5">
-  <meta name="description" content="逐节详解维特根斯坦《哲学研究》：第 1—200 节中文文本、文句精读、问题拆解、论证分析与误读辨析。">
+  <meta name="description" content="逐节详解维特根斯坦《哲学研究》：第 1—250 节中文文本、文句精读、问题拆解、论证分析与误读辨析。">
   <title>哲学研究 · 慢读</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg">
   <link rel="stylesheet" href="./style.css">
@@ -27,6 +27,17 @@
   <script defer src="./data/sections-185-200.js"></script>
   <script defer src="./data/depth-151-155.js"></script>
   <script defer src="./data/depth-168-172.js"></script>
+  <script defer src="./data/sections-201-217.js"></script>
+  <script defer src="./data/sections-218-234.js"></script>
+  <script defer src="./data/sections-235-250.js"></script>
+  <script defer src="./data/depth-235-239.js"></script>
+  <script defer src="./data/depth-202-205.js"></script>
+  <script defer src="./data/sections-supplement-216-250.js"></script>
+  <script defer src="./data/sections-248-250.js"></script>
+  <script defer src="./data/depth-final-201-250.js"></script>
+  <script defer src="./data/depth-rules-218-234.js"></script>
+  <script defer src="./data/depth-rules-227-234.js"></script>
+  <script defer src="./data/reading-details-201-250.js"></script>
   <script defer src="./app.js"></script>
 </head>
 <body>
@@ -34,11 +45,11 @@
   <aside class="sidebar" id="sidebar" aria-label="章节目录">
     <a class="library-back" href="../">← 返回书库</a>
     <a href="#section-1" class="brand"><span class="brand-icon">§</span><span>哲学研究<small>维特根斯坦 · 逐节慢读</small></span></a>
-    <div class="sidebar-intro"><span class="volume">第一部</span><h2>从语言的日常出发</h2><p>第 1—200 节学习手册</p></div>
+    <div class="sidebar-intro"><span class="volume">第一部</span><h2>从语言的日常出发</h2><p>第 1—250 节学习手册</p></div>
     <label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" data-reader-control disabled type="search" placeholder="搜索中文文本与解释" aria-label="搜索章节、中文文本与讲解"><kbd>/</kbd></label>
-    <form id="jump-form" class="chapter-jump"><label for="jump-section">跳到第</label><input id="jump-section" data-reader-control disabled type="number" min="1" max="200" step="1" inputmode="numeric" required aria-label="跳转节号"><span>节</span><button type="submit" data-reader-control disabled>前往</button></form>
-    <div class="nav-label"><span>阅读目录</span><span id="search-status" role="status" aria-live="polite">共 200 节</span></div>
-    <nav id="chapter-list" aria-label="第 1—200 节"></nav>
+    <form id="jump-form" class="chapter-jump"><label for="jump-section">跳到第</label><input id="jump-section" data-reader-control disabled type="number" min="1" max="250" step="1" inputmode="numeric" required aria-label="跳转节号"><span>节</span><button type="submit" data-reader-control disabled>前往</button></form>
+    <div class="nav-label"><span>阅读目录</span><span id="search-status" role="status" aria-live="polite">共 250 节</span></div>
+    <nav id="chapter-list" aria-label="第 1—250 节"></nav>
     <p id="empty-search" hidden>没有找到相关章节。试试“训练”或“意义”。</p>
     <div class="sidebar-bottom"><p>对照原文，拆开论证。<br>让每个结论都有来处。</p><button class="text-button" id="about-open">版本与阅读说明 <span aria-hidden="true">↗</span></button></div>
   </aside>
@@ -51,9 +62,9 @@
       </main>
       <aside class="reading-rail" aria-label="文章目录"><div class="rail-sticky"><div class="rail-heading">本节内容</div><nav class="on-this-page" id="article-toc"></nav><div class="rail-connection"><span class="rail-label">前后连接</span><p id="rail-connection"></p></div></div></aside>
     </div>
-    <footer class="site-footer"><span>哲学研究 · 慢读</span><span>第 1—200 节 · 中文文本与详细解释</span><a href="https://github.com/lxgw/LxgwWenKai" target="_blank" rel="noopener noreferrer">字体：霞鹜文楷</a></footer>
+    <footer class="site-footer"><span>哲学研究 · 慢读</span><span>第 1—250 节 · 中文文本与详细解释</span><a href="https://github.com/lxgw/LxgwWenKai" target="_blank" rel="noopener noreferrer">字体：霞鹜文楷</a></footer>
   </div>
-  <dialog id="about"><div class="dialog-heading"><h2>关于这本阅读手册</h2><button class="icon-button" id="about-close" aria-label="关闭说明">✕</button></div><p>本版覆盖《哲学研究》第一部第 1—200 节，围绕原文和详细解释组织。节标题和解释小标题由本站拟定。</p><h3>文本与解释</h3><p>德文据 <a href="https://wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen" target="_blank" rel="noopener noreferrer">Ludwig Wittgenstein Project</a>，数字版依据 Suhrkamp 1999 年《著作集》第 1 卷，第 231—485 页。第 1 节保留拉丁文引文。</p><p>中文为本站 AI 辅助学习自译，尚未经专业译者审校，未采用现有中文出版译本。解释依据原文展开；现代例子与三个分析视角为本站补充，不代表唯一解读。每节末尾列出文本依据与延伸阅读。</p><p>来源页将德文标为在原属国及实行作者逝世后 70 年或更短保护期的地区进入公有领域，不代表所有地区的状态。</p><h3>阅读设置</h3><p>网站仅在当前浏览器保存上次阅读的节次、字号与主题。</p><h3>字体</h3><p>中文界面与正文使用霞鹜文楷。网页字体由官方字体制作字符子集，并以独立字体名称保存，随网站本地加载。授权文本见 <a href="./assets/fonts/OFL.txt" target="_blank" rel="noopener noreferrer">SIL Open Font License 1.1</a>。</p><p class="source-meta">核对与修订日期：2026-11-06 · 第 1—200 节详细解释版</p></dialog>
+  <dialog id="about"><div class="dialog-heading"><h2>关于这本阅读手册</h2><button class="icon-button" id="about-close" aria-label="关闭说明">✕</button></div><p>本版覆盖《哲学研究》第一部第 1—250 节，围绕原文和详细解释组织。节标题和解释小标题由本站拟定。</p><h3>文本与解释</h3><p>德文据 <a href="https://wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen" target="_blank" rel="noopener noreferrer">Ludwig Wittgenstein Project</a>，数字版依据 Suhrkamp 1999 年《著作集》第 1 卷，第 231—485 页。第 1 节保留拉丁文引文。</p><p>中文为本站 AI 辅助学习自译，尚未经专业译者审校，未采用现有中文出版译本。解释依据原文展开；现代例子与三个分析视角为本站补充，不代表唯一解读。每节末尾列出文本依据与延伸阅读。</p><p>来源页将德文标为在原属国及实行作者逝世后 70 年或更短保护期的地区进入公有领域，不代表所有地区的状态。</p><h3>阅读设置</h3><p>网站仅在当前浏览器保存上次阅读的节次、字号与主题。</p><h3>字体</h3><p>中文界面与正文使用霞鹜文楷。网页字体由官方字体制作字符子集，并以独立字体名称保存，随网站本地加载。授权文本见 <a href="./assets/fonts/OFL.txt" target="_blank" rel="noopener noreferrer">SIL Open Font License 1.1</a>。</p><p class="source-meta">核对与修订日期：2026-11-06 · 第 1—250 节详细解释版</p></dialog>
   <noscript><p>请启用 JavaScript，以显示章节、原文和讲解。德文文本也可在上述来源链接阅读。</p></noscript>
 </body>
 </html>
