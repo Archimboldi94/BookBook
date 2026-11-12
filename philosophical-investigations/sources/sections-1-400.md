@@ -12,7 +12,7 @@ _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._An
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophische Untersuchungen*. Herausgegeben von G. E. M. Anscombe, R. Rhees, G. H. von Wright. Ludwig Wittgenstein Werkausgabe, Band 1. Suhrkamp Verlag, Frankfurt am Main, 1999, S. 231–485. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
 
-# Philosophische Untersuchungen · §§ 1–350
+# Philosophische Untersuchungen · §§ 1–400
 
 ## 1
 
@@ -2185,3 +2185,241 @@ Weiß ich’s nur von mir selbst, dann weiß ich also nur, was ich so nenne, nic
 »Aber wenn ich annehme, Einer habe Schmerzen, so nehme ich einfach an, er habe dasselbe, was ich so oft gehabt habe.« – Das führt uns nicht weiter. Es ist, als sagte ich: »Du weißt doch, was es heißt ›Es ist hier 5 Uhr‹; dann weißt du auch, was es heißt, es sei 5 Uhr auf der Sonne. Es heißt eben, es sei dort ebensoviel Uhr wie hier, wenn es hier 5 Uhr ist.« – Die Erklärung mittels der Gleichheit funktioniert hier nicht. Weil ich zwar weiß, daß man 5 Uhr hier »die gleiche Zeit« nennen kann, wie 5 Uhr dort, aber eben nicht weiß, in welchem Falle man von Zeitgleichheit hier und dort sprechen soll.
 
 Geradeso ist es keine Erklärung, zu sagen: die Annahme, er habe Schmerzen, sei eben die Annahme, er habe das Gleiche wie ich. Denn dieser Teil der Grammatik ist mir wohl klar: daß man nämlich sagen werde, der Ofen habe das gleiche Erlebnis wie ich, wenn man sagt: er habe Schmerzen und ich habe Schmerzen.
+
+## 351
+
+Wir möchten doch immer sagen: »Schmerzgefühl ist Schmerzgefühl – ob er es hat, oder ich es habe; und wie immer ich erfahre, ob er eines hat oder nicht.« – Damit könnte ich mich einverstanden erklären. – Und wenn du mich fragst: »Weißt du denn nicht, was ich meine, wenn ich sage, der Ofen habe Schmerzen?« – so kann ich antworten: Diese Worte können mich zu allerlei Vorstellungen führen; aber weiter geht ihr Nutzen nicht. Und ich kann mir auch etwas bei den Worten vorstellen »Es war gerade 5 Uhr nachmittag auf der Sonne« – nämlich etwa eine Pendeluhr, die auf 5 zeigt. – Noch besser wäre aber das Beispiel der Anwendung von »oben« und »unten« auf die Erdkugel. Hier haben wir alle eine ganz deutliche Vorstellung davon, was »oben« und »unten« bedeutet. Ich sehe doch, daß ich oben bin; die Erde ist doch unter mir! (Lächle ja nicht über dieses Beispiel. Es wird uns zwar schon in der Volksschule beigebracht, daß es dumm ist, so etwas zu sagen. Aber es ist eben viel leichter, ein Problem zuzuschütten, als es zu lösen.) Und erst eine Überlegung zeigt uns, daß in diesem Fall »oben« und »unten« nicht auf die gewohnte Weise zu gebrauchen sind. (Daß wir z.B. von den Antipoden als den Menschen ›unter‹ unserem Erdteil reden können, es aber nun für richtig anerkennen müssen, wenn sie auf uns den gleichen Ausdruck anwenden.)
+
+## 352
+
+Hier geschieht es nun, daß uns unser Denken einen seltsamen Streich spielt. Wir wollen nämlich das Gesetz vom ausgeschlossenen Dritten zitieren und sagen: »Entweder es schwebt ihm ein solches Bild vor, oder nicht; ein Drittes gibt es nicht!« – Dieses seltsame Argument treffen wir auch in andern Gebieten der Philosophie. »In der unendlichen Entwicklung von π kommt einmal die Gruppe ›7777‹ vor, oder nicht – ein Drittes gibt es nicht.« D.h.: Gott sieht es – aber wir wissen es nicht. Was bedeutet das aber? – Wir gebrauchen ein Bild; das Bild einer sichtbaren Reihe, die der Eine übersieht, der Andre nicht. Der Satz vom ausgeschlossenen Dritten sagt hier: Es muß entweder so ausschaun, oder so. Er sagt also eigentlich – und das ist ja selbstverständlich – gar nichts, sondern gibt uns ein Bild. Und das Problem soll nun sein: ob die Wirklichkeit mit dem Bild übereinstimme, oder nicht. Und dies Bild scheint nun, was wir zu tun, wie und wonach wir zu suchen haben, zu bestimmen – tut es aber nicht, weil wir eben nicht wissen, wie es zu applizieren ist. Wenn wir hier sagen »Es gibt kein Drittes«, oder »Es gibt doch kein Drittes!« – so drückt sich darin aus, daß wir den Blick von diesem Bild nicht wenden können, – das ausschaut, als müßte in ihm schon das Problem und seine Lösung liegen, während wir doch fühlen, daß es nicht der Fall ist.
+
+Ebenso, wenn man sagt »Entweder hat er diese Empfindung, oder er hat sie nicht!« – so schwebt uns dabei vor allem ein Bild vor, das schon den Sinn der Aussagen unmißverständlich zu bestimmen scheint. »Du weißt jetzt, worum es sich handelt« – möchte man sagen. Und gerade das weiß er damit noch nicht.
+
+## 353
+
+Die Frage nach der Art und Möglichkeit der Verifikation eines Satzes ist nur eine besondere Form der Frage »Wie meinst du das?« Die Antwort ist ein Beitrag zur Grammatik des Satzes.
+
+## 354
+
+Das Schwanken in der Grammatik zwischen Kriterien und Symptomen läßt den Schein entstehen, als gäbe es überhaupt nur Symptome. Wir sagen etwa: »Die Erfahrung lehrt, daß es regnet, wenn das Barometer fällt, aber sie lehrt auch, daß es regnet, wenn wir bestimmte Gefühle der Nässe und Kälte haben, oder den und den Gesichtseindruck.« Als Argument dafür gibt man dann an, daß diese Sinneseindrücke uns täuschen können. Aber man bedenkt dabei nicht, daß die Tatsache, daß sie uns gerade den Regen vortäuschen, auf einer Definition beruht.
+
+## 355
+
+Nicht darum handelt es sich, daß unsre Sinneseindrücke uns belügen können, sondern, daß wir ihre Sprache verstehen. (Und diese Sprache beruht, wie jede andere, auf Übereinkunft.)
+
+## 356
+
+Man ist geneigt zu sagen: »Es regnet, oder es regnet nicht – wie ich das weiß, wie mich die Kunde davon erreicht hat, ist eine andere Sache.« Aber stellen wir also die Frage so: Was nenne ich »eine Kunde davon, daß es regnet«? (Oder habe ich auch von dieser Kunde nur Kunde erhalten?) Und was kennzeichnet denn diese ›Kunde‹ als Kunde von etwas? Leitet uns da nicht die Form unseres Ausdrucks irre? Ist das eben nicht eine irreführende Metapher: »Mein Auge gibt mir Kunde davon, daß dort ein Sessel stehe«?
+
+## 357
+
+Wir sagen nicht, ein Hund spräche möglicherweise zu sich selber. Ist das, weil wir seine Seele so genau kennen? Nun, man könnte so sagen: Wenn man das Benehmen des Lebewesens sieht, sieht man seine Seele. – Aber sage ich auch von mir, ich spreche zu mir selber, weil ich mich so und so benehme? – Ich sage es nicht auf die Beobachtung meines Benehmens hin. Aber es hat nur Sinn, weil ich mich so benehme. – So hat es also nicht darum Sinn, weil ich es meine?
+
+## 358
+
+Aber ist es nicht unser Meinen, das dem Satz Sinn gibt? (Und dazu gehört natürlich: Sinnlose Wortreihen kann man nicht meinen.) Und das Meinen ist etwas im seelischen Bereich. Aber es ist auch etwas Privates! Es ist das ungreifbare Etwas; vergleichbar nur dem Bewußtsein selbst.
+
+Wie könnte man das lächerlich finden! es ist ja, gleichsam, ein Traum unserer Sprache.
+
+## 359
+
+Könnte eine Maschine denken? –– Könnte sie Schmerzen haben? – Nun, soll der menschliche Körper so eine Maschine heißen? Er kommt doch am nächsten dazu, so eine Maschine zu sein.
+
+## 360
+
+Aber eine Maschine kann doch nicht denken! – Ist das ein Erfahrungssatz? Nein. Wir sagen nur vom Menschen, und was ihm ähnlich ist, es denke. Wir sagen es auch von Puppen und wohl auch von Geistern. Sieh das Wort »denken« als Instrument an!
+
+## 361
+
+Der Sessel denkt bei sich selber: .....
+
+Wo? In einem seiner Teile? Oder außerhalb seines Körpers; in der Luft um ihn? Oder gar nicht irgendwo? Aber was ist dann der Unterschied zwischen dem inneren Sprechen dieses Sessels und eines ändern, der daneben steht? – Aber wie ist es dann mit dem Menschen: Wo spricht er zu sich selber? Wie kommt es, daß diese Frage sinnlos scheint; und keine Ortsbestimmung nötig ist, außer der, daß eben dieser Mensch zu sich selbst spricht? Während die Frage, wo der Sessel mit sich selbst spreche, eine Antwort zu verlangen scheint. – Der Grund ist: Wir wollen wissen, wie der Sessel hier einem Menschen gleichen soll; ob der Kopf z.B. am obern Ende der Lehne ist, usw.
+
+Wie ist das, wenn man im Innern zu sich selbst spricht; was geht da vor? – Wie soll ich’s erklären? Nun, nur so, wie du Einen die Bedeutung des Ausdrucks »zu sich selbst sprechen« lehren kannst. Und als Kinder lernen wir ja diese Bedeutung. – Nur, daß niemand sagen wird, wer sie uns lehrt, sage uns, ›was da vorgehe‹.
+
+## 362
+
+Vielmehr scheint es uns, als ob der Lehrer in diesem Falle dem Schüler die Bedeutung beibringe – ohne sie ihm direkt zu sagen; daß aber der Schüler endlich dazu gebracht wird, sich selbst die richtige hinweisende Erklärung zu geben. Und hierin liegt unsre Illusion.
+
+## 363
+
+»Wenn ich mir etwas vorstelle, so geschieht doch wohl etwas!« Nun, es geschieht etwas – und wozu mache ich dann einen Lärm? Wohl dazu, was geschieht, mitzuteilen. – Aber wie teilt man denn überhaupt etwas mit? Wann sagt man, etwas werde mitgeteilt? – Was ist das Sprachspiel des Mitteilens?
+
+Ich möchte sagen: du siehst es für viel zu selbstverständlich an, daß man Einem etwas mitteilen kann. Das heißt: Wir sind so sehr an die Mitteilung durch Sprechen, im Gespräch, gewöhnt, daß es uns scheint, als läge der ganze Witz der Mitteilung darin, daß ein Andrer den Sinn meiner Worte – etwas Seelisches – auffaßt, sozusagen in seinen Geist aufnimmt. Wenn er dann auch noch etwas damit anfängt, so gehört das nicht mehr zum unmittelbaren Zweck der Sprache.
+
+Man möchte sagen »Die Mitteilung bewirkt, daß er weiß, daß ich Schmerzen habe; sie bewirkt dies geistige Phänomen; alles Andere ist der Mitteilung unwesentlich.« Was dieses merkwürdige Phänomen des Wissens ist – damit läßt man sich Zeit. Seelische Vorgänge sind eben merkwürdig. (Es ist, als sagte man: »Die Uhr zeigt uns die Zeit an. Was die Zeit ist, ist noch nicht entschieden. Und wozu man die Zeit abliest – das gehört nicht hierher.«)
+
+## 364
+
+Jemand macht eine Berechnung im Kopf. Das Ergebnis verwendet er, sagen wir, beim Bauen einer Brücke, oder Maschine. – Willst du sagen, er habe diese Zahl eigentlich nicht durch Berechnung gefunden? Sie sei ihm etwa, nach einer Art Träumerei, in den Schoß gefallen? Es mußte doch da gerechnet werden, und ist gerechnet worden. Denn er weiß, daß, und wie, er gerechnet hat; und das richtige Resultat wäre ohne Rechnung nicht erklärbar. –– Wie aber, wenn ich sagte: »Es kommt ihm vor, er habe gerechnet. Und warum soll sich das richtige Resultat erklären lassen? Ist es nicht unverständlich genug, daß er ohne ein Wort, oder Schriftzeichen, RECHNEN konnte?« –
+
+Ist das Rechnen in der Vorstellung in gewissem Sinne unwirklicher als das auf dem Papier? Es ist das wirkliche – Kopfrechnen. – Ist es ähnlich dem Rechnen auf dem Papier? – Ich weiß nicht, ob ich es ähnlich nennen soll. Ist ein Stück weißes Papier mit schwarzen Strichen drauf einem menschlichen Körper ähnlich?
+
+## 365
+
+Spielen Adelheid und der Bischof eine wirkliche Schachpartie? – Freilich. Sie geben nicht bloß vor, eine zu spielen – wie es doch in einem Theaterstücke auch geschehen könnte. – Aber diese Partie hat doch z.B. keinen Anfang! – Doch; sonst wäre es ja keine Schachpartie.
+
+## 366
+
+Ist das Rechnen im Kopf unwirklicher als das Rechnen auf dem Papier? – Man ist vielleicht geneigt, so etwas zu sagen; kann sich aber auch zur gegenteiligen Ansicht bringen, indem man sich sagt: Papier, Tinte, etc. seien nur logische Konstruktionen aus unsern Sinnesdaten. »Ich habe die Multiplikation ..... im Kopfe ausgeführt« – glaube ich etwa so eine Aussage nicht? – Aber war es wirklich eine Multiplikation? Es war nicht bloß ›eine‹ Multiplikation, sondern diese – im Kopfe. Dies ist der Punkt, an dem ich irregehe. Denn ich will jetzt sagen: Es war irgend ein, dem Multiplizieren auf dem Papier entsprechender, geistiger Vorgang. So daß es Sinn hätte, zu sagen: »Dieser Vorgang im Geiste entspricht diesem Vorgang auf dem Papier.« Und es hätte dann Sinn, von einer Methode der Abbildung zu reden, nach welcher die Vorstellung des Zeichens das Zeichen selbst darstellt.
+
+## 367
+
+Das Vorstellungsbild ist das Bild, das beschrieben wird, wenn Einer seine Vorstellung beschreibt.
+
+## 368
+
+Ich beschreibe Einem ein Zimmer, und lasse ihn dann, zum Zeichen, daß er meine Beschreibung verstanden hat, ein impressionistisches Bild nach dieser Beschreibung malen. – Er malt nun die Stühle, die in meiner Beschreibung grün hießen, dunkelrot; wo ich »gelb« sagte, malt er blau. – Das ist der Eindruck, den er von diesem Zimmer erhielt. Und nun sage ich: »Ganz richtig; so sieht es aus.«
+
+## 369
+
+Man möchte fragen: »Wie ist das – was geht da vor – wenn Einer im Kopfe rechnet?« – Und im besondern Fall kann die Antwort sein: »Ich addiere zuerst 17 und 18, dann subtrahiere ich 39 .....« Aber das ist nicht die Antwort auf unsre Frage. Was im Kopf rechnen heißt, wird auf solche Weise nicht erklärt.
+
+## 370
+
+Nicht, was Vorstellungen sind, oder was da geschieht, wenn man sich etwas vorstellt, muß man fragen, sondern: wie das Wort »Vorstellung« gebraucht wird. Das heißt aber nicht, daß ich nur von Worten reden will. Denn soweit in meiner Frage vom Wort »Vorstellung« die Rede ist, ist sie’s auch in der Frage nach dem Wesen der Vorstellung. Und ich sage nur, daß diese Frage nicht durch ein Zeigen – weder für den Vorstellenden, noch für den Andern, zu erklären ist; noch durch die Beschreibung irgend eines Vorgangs. Nach einer Worterklärung fragt auch die erste Frage; aber sie lenkt unsre Erwartung auf eine falsche Art der Antwort.
+
+## 371
+
+Das Wesen ist in der Grammatik ausgesprochen.
+
+## 372
+
+Überlege: »Das einzige Korrelat in der Sprache zu einer Naturnotwendigkeit ist eine willkürliche Regel. Sie ist das Einzige, was man von dieser Naturnotwendigkeit in einen Satz abziehen kann.«
+
+## 373
+
+Welche Art von Gegenstand etwas ist, sagt die Grammatik. (Theologie als Grammatik.)
+
+## 374
+
+Die große Schwierigkeit ist hier, die Sache nicht so darzustellen, als könne man etwas nicht. Als wäre da wohl ein Gegenstand, von dem ich die Beschreibung abziehe, aber ich wäre nicht im Stande, ihn jemandem zu zeigen. –– Und das Beste, was ich vorschlagen kann, ist wohl, daß wir der Versuchung, dies Bild zu gebrauchen, nachgeben: aber nun untersuchen, wie die Anwendung dieses Bildes aussieht.
+
+## 375
+
+Wie lehrt man jemand, leise für sich selbst lesen? Wie weiß man, wenn er’s kann? Wie weiß er selbst, daß er tut, was man von ihm verlangt?
+
+## 376
+
+Wenn ich mir im Innern das ABC vorsage, was ist das Kriterium dafür, daß ich das Gleiche tue, wie ein Andrer, der es sich im Stillen vorsagt? Es könnte gefunden werden, daß in meinem Kehlkopf und in seinem das Gleiche dabei vorgeht. (Und ebenso, wenn wir beide an das Gleiche denken, das Gleiche wünschen, etc.) Aber lernten wir denn die Verwendung der Worte »sich im Stillen das und das vorsagen«, indem auf einen Vorgang im Kehlkopf, oder im Gehirn, hingewiesen wurde? Ist es nicht auch wohl möglich, daß meiner Vorstellung vom Laute a und seiner verschiedene physiologische Vorgänge entsprechen? Die Frage ist: Wie vergleicht man Vorstellungen?
+
+## 377
+
+Ein Logiker denkt vielleicht: Gleich ist gleich – es ist eine psychologische Frage, wie ein Mensch sich von der Gleichheit überzeugt. (Höhe ist Höhe – es gehört in die Psychologie, daß der Mensch sie manchmal sieht, manchmal hört.)
+
+Was ist das Kriterium der Gleichheit zweier Vorstellungen? – Was ist das Kriterium der Röte einer Vorstellung? Für mich, wenn der Andre sie hat: was er sagt und tut. Für mich, wenn ich sie habe: gar nichts. Und was für »rot« gilt, gilt auch für »gleich«.
+
+## 378
+
+»Ehe ich urteile, daß zwei meiner Vorstellungen gleich sind, muß ich sie doch als gleich erkennen.« Und wenn das geschehen ist, wie werde ich dann wissen, daß das Wort »gleich« meine Erkenntnis beschreibt? Nur dann, wenn ich diese Erkenntnis auf andere Weise ausdrücken, und ein Andrer mich lehren kann, daß hier »gleich« das richtige Wort ist.
+
+Denn, bedarf ich einer Berechtigung dafür, ein Wort zu gebrauchen, dann muß es eine auch für den Andern sein.
+
+## 379
+
+Ich erkenne es erst als das; und erinnere ich mich daran, wie das genannt wird. – Bedenke: In welchen Fällen kann man dies mit Recht sagen?
+
+## 380
+
+Wie erkenne ich, daß dies rot ist? – »Ich sehe, daß es dies ist; und nun weiß ich, daß dies so heißt.« Dies? – Was?! Welche Art der Antwort hat auf diese Frage Sinn?
+
+\(Du steuerst immer wieder auf eine innere hinweisende Erklärung hin.)
+
+Auf den privaten Übergang von dem Gesehenen zum Wort könnte ich keine Regeln anwenden. Hier hingen die Regeln wirklich in der Luft; da die Institution ihrer Anwendung fehlt.
+
+## 381
+
+Wie erkenne ich, daß diese Farbe Rot ist? – Eine Antwort wäre: »Ich habe Deutsch gelernt.«
+
+## 382
+
+Wie kann ich es rechtfertigen, daß ich mir auf diese Worte hin diese Vorstellung mache?
+
+Hat mir jemand die Vorstellung der blauen Farbe gezeigt, und gesagt, daß sie es sei?
+
+Was bedeuten die Worte »diese Vorstellung«? Wie zeigt man auf eine Vorstellung? Wie zeigt man zweimal auf die gleiche Vorstellung?
+
+## 383
+
+Wir analysieren nicht ein Phänomen (z.B. das Denken), sondern einen Begriff (z.B. den des Denkens), und also die Anwendung eines Worts. So kann es scheinen, als wäre, was wir treiben, Nominalismus. Nominalisten machen den Fehler, daß sie alle Wörter als Namen deuten, also ihre Verwendung nicht wirklich beschreiben, sondern sozusagen nur eine papierene Anweisung auf so eine Beschreibung geben.
+
+## 384
+
+Den Begriff ›Schmerz‹ hast du mit der Sprache gelernt.
+
+## 385
+
+Frage dich: Wäre es denkbar, daß Einer im Kopfe rechnen lernte, ohne je schriftlich oder mündlich zu rechnen? – »Es lernen« heißt wohl: dazu gebracht werden, daß man’s kann. Und es fragt sich nur, was als Kriterium dafür gelten wird, daß jemand dies kann. –– Ist aber auch dies möglich, daß einem Volksstamm nur das Kopfrechnen bekannt ist, und kein andres? Hier muß man sich fragen »Wie wird das aussehen?« – Man wird sich dies also als einen Grenzfall ausmalen müssen. Und es wird sich dann fragen, ob wir hier noch den Begriff des ›Kopfrechnens‹ anwenden wollen – oder ob er unter solchen Umständen seinen Zweck eingebüßt hat; weil die Erscheinungen nun zu einem ändern Vorbild hin gravitieren.
+
+## 386
+
+»Aber warum traust du dir selbst so wenig? Du weißt doch sonst immer, was ›rechnen‹ heißt. Wenn du also sagst, du habest in der Vorstellung gerechnet, so wird es eben so sein. Hättest du nicht gerechnet, so würdest du’s nicht sagen. Ebenso: wenn du sagst, du sähest etwas Rotes in der Vorstellung, so wird es eben rot sein. Du weißt ja sonst, was ›rot‹ ist. – Und weiter: du verläßt dich ja nicht immer auf die Übereinstimmung mit den Andern; denn oft berichtest du, du habest etwas gesehen, was niemand Andrer gesehen hat.« –– Aber ich traue mir ja – ich sage ja ohne Bedenken, ich habe dies im Kopf gerechnet, diese Farbe mir vorgestellt. Nicht das ist die Schwierigkeit, daß ich zweifle, ob ich mir wirklich etwas Rotes vorgestellt habe. Sondern dies: daß wir so ohne weiteres zeigen oder beschreiben können, welche Farbe wir uns vorgestellt haben, daß uns das Abbilden der Vorstellung in die Wirklichkeit gar keine Schwierigkeit bereitet. Sehen sie sich denn zum Verwechseln ähnlich? – Aber ich kann ja auch ohne weiteres einen Menschen nach einer Zeichnung erkennen. – Aber kann ich denn fragen »Wie schaut eine richtige Vorstellung dieser Farbe aus?«, oder »Wie ist sie beschaffen?«; kann ich dies lernen?
+
+\(Ich kann sein Zeugnis nicht annehmen, weil es kein Zeugnis ist. Es sagt mir nur, was er zu sagen geneigt ist.)
+
+## 387
+
+Der tiefe Aspekt entschlüpft leicht.
+
+## 388
+
+»Ich sehe zwar hier nichts Violettes, aber wenn du mir einen Farbkasten gibst, so kann ich’s dir darin zeigen.« Wie kann man wissen, daß man es zeigen kann, wenn ....., daß man es also erkennen kann, wenn man es sieht?
+
+Wie weiß ich von meiner Vorstellung her, wie die Farbe wirklich ausschaut?
+
+Wie weiß ich, daß ich etwas werde tun können? d.h., daß der Zustand, in welchem ich jetzt bin, der ist: jenes tun zu können?
+
+## 389
+
+»Die Vorstellung muß ihrem Gegenstand ähnlicher sein als jedes Bild: Denn wie ähnlich ich auch das Bild dem mache, was es darstellen soll, es kann immer noch das Bild von etwas anderem sein. Aber die Vorstellung hat es in sich, daß sie die Vorstellung von diesem, und von nichts anderem, ist«. Man könnte so dahin kommen, die Vorstellung als ein Über-Bildnis anzusehen.
+
+## 390
+
+Könnte man sich vorstellen, daß ein Stein Bewußtsein hätte? Und wenn’s Einer kann – warum soll das nicht bloß beweisen, daß diese Vorstellerei für uns kein Interesse hat?
+
+## 391
+
+Ich kann mir vielleicht auch vorstellen (obwohl es nicht leicht ist), jeder der Leute, die ich auf der Straße sehe, habe furchtbare Schmerzen, verberge sie aber kunstvoll. Und es ist wichtig, daß ich mir hier ein kunstvolles Verbergen vorstellen muß. Daß ich mir also nicht einfach sage: »Nun, seine Seele hat Schmerzen; aber was hat das mit seinem Leib zu tun!« oder »das muß sich schließlich am Leib nicht zeigen!« – Und wenn ich mir das nun vorstelle, – was tue ich; was sage ich zu mir selbst; wie sehe ich die Leute an? Ich schaue etwa Einen an und denke mir »Das muß schwer sein, zu lachen, wenn man solche Schmerzen hat«, und vieles dergleichen. Ich spiele gleichsam eine Rolle, tue so, als hätten die Andern Schmerzen. Wenn ich das tue, sagt man etwa, ich stelle mir vor, ....
+
+## 392
+
+»Wenn ich mir vorstelle, er habe Schmerzen, geht eigentlich nur ..... in mir vor.« Ein Andrer sagt dann: »Ich glaube, ich kann es mir auch vorstellen, ohne dabei ..... zu denken«. (»Ich glaube, ich kann denken, ohne zu reden.«) Das führt zu nichts. Die Analyse schillert zwischen einer naturwissenschaftlichen und einer grammatischen.
+
+## 393
+
+»Wenn ich mir vorstelle, daß Einer, der lacht, in Wirklichkeit Schmerzen hat, so stelle ich mir doch kein Schmerzbenehmen vor, denn ich sehe eben das Gegenteil. Was stelle ich mir also vor?« – Ich habe es schon gesagt. Und ich stelle mir dazu nicht notwendigerweise vor, daß ich Schmerzen fühle. –– »Aber wie geht es also vor sich: sich dies vorstellen?« –– Wo (außerhalb der Philosophie) verwenden wir denn die Worte »Ich kann mir vorstellen, daß er Schmerzen hat«, oder »Ich stelle mir vor, daß ....«, oder »Stell dir vor, daß ....!«?
+
+Man sagt z.B. dem, der eine Theaterrolle zu spielen hat: »Du mußt dir hier vorstellen, daß dieser Mensch Schmerzen hat, die er verbirgt« – und wir geben ihm nun keine Anweisung, sagen ihm nicht, was er eigentlich tun soll. Darum ist auch jene Analyse nicht zur Sache. – Wir schaun nun dem Schauspieler zu, der sich diese Situation vorstellt.
+
+## 394
+
+Unter was für Umständen würden wir jemand fragen: »Was ist da eigentlich in dir vorgegangen, wie du dir dies vorgestellt hast?« – Und was für eine Antwort erwarten wir uns da?
+
+## 395
+
+Es besteht Unklarheit darüber, welche Rolle Vorstellbarkeit in unserer Untersuchung spielt. Inwiefern sie nämlich den Sinn eines Satzes sicherstellt.
+
+## 396
+
+Es ist so wenig für das Verständnis eines Satzes wesentlich, daß man sich bei ihm etwas vorstelle, als daß man nach ihm eine Zeichnung entwerfe.
+
+## 397
+
+Statt »Vorstellbarkeit« kann man hier auch sagen: Darstellbarkeit in einem bestimmten Mittel der Darstellung. Und von einer solchen Darstellung kann allerdings ein sicherer Weg zur weitern Verwendung führen. Anderseits kann sich uns ein Bild aufdrängen und gar nichts nützen.
+
+## 398
+
+»Aber wenn ich mir etwas vorstelle, oder auch wirklich Gegenstände sähe, so habe ich doch etwas, was mein Nachbar nicht hat.« – Ich verstehe dich. Du willst um dich schaun und sagen: »Nur ich habe doch DIESES.« – Wozu diese Worte? Sie taugen zu nichts. – Ja, kann man nicht auch sagen »Es ist hier von einem ›Sehen‹ – und daher auch von einem ›Haben‹ – und von einem Subjekt, also auch vom Ich, nicht die Rede«? Könnte ich nicht fragen: Das, wovon du redest und sagst, nur du habest es, – inwiefern hast du es denn? Besitzt du es? Du siehst es nicht einmal. Ja, müßtest du nicht davon sagen, niemand habe es? Es ist ja auch klar: wenn du logisch ausschließt, daß ein Andrer etwas hat, so verliert es auch seinen Sinn, zu sagen, du habest es.
+
+Aber was ist dann das, wovon du redest? Ich sagte ja, ich wisse in meinem Innern, was du meinst. Aber das hieße: ich weiß, wie man diesen Gegenstand aufzufassen, zu sehen, wie man ihn sozusagen durch Blick und Gesten zu bezeichnen meint. Ich weiß, in welcher Weise man in diesem Fall vor sich und um sich schaut, – und anderes. Ich glaube, man kann sagen: Du redest (wenn du z.B. im Zimmer sitzt) vom ›visuellen Zimmer‹. Das, was keinen Besitzer hat, ist das ›visuelle Zimmer‹. Ich kann es so wenig besitzen, als ich darin umhergehen, oder es anschaun, oder darauf zeigen kann. Es gehört insofern nicht mir an, als es niemand anderm angehören kann. Oder: es gehört insofern nicht mir an, als ich ja darauf die gleiche Ausdrucksform anwenden will wie auf das materielle Zimmer selbst, in dem ich sitze. Die Beschreibung des letzteren braucht keinen Besitzer zu erwähnen, es muß ja auch keinen Besitzer haben. Dann aber kann das visuelle Zimmer keinen haben. »Denn es hat keinen Herrn außer sich und keinen in sich« – könnte man sagen.
+
+Denk dir ein Landschaftsbild, eine Phantasielandschaft, und in ihr ein Haus – und jemand fragte »Wem gehört das Haus?« – Es könnte übrigens die Antwort darauf sein: »Dem Bauern, der auf der Bank davor sitzt.« Aber dieser kann sein Haus dann, z.B., nicht betreten.
+
+## 399
+
+Man könnte auch sagen: der Besitzer des visuellen Zimmers müßte doch wesensgleich mit ihm sein; aber er befindet sich nicht in ihm, noch gibt es ein Außen.
+
+## 400
+
+Was der, der gleichsam das ›visuelle Zimmer‹ entdeckt zu haben schien, – was der gefunden hatte, war eine neue Sprechweise, ein neuer Vergleich; und man könnte auch sagen, eine neue Empfindung.
