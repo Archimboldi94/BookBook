@@ -11,7 +11,7 @@ for (const file of scriptPaths) vm.runInContext(fs.readFileSync(new URL(file, ro
 vm.runInContext(fs.readFileSync(new URL('originals.js', root), 'utf8'), sandbox, { filename: 'originals.js' });
 const { LESSONS: lessons, ORIGINALS: originals } = sandbox.window;
 lessons.sort((a, b) => a.id - b.id);
-const total = 300;
+const total = 350;
 assert.equal(lessons.length, total);
 assert.equal(new Set(lessons.map(lesson => lesson.id)).size, total);
 assert.equal(Object.keys(originals).length, total);

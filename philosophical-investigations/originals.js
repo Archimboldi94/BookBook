@@ -1264,5 +1264,176 @@ window.ORIGINALS = {
   ],
   "300": [
     "Zu dem Sprachspiel mit den Worten »er hat Schmerzen« gehört – möchte man sagen – nicht nur das Bild des Benehmens, sondern auch das Bild des Schmerzes. Oder: nicht nur das Paradigma des Benehmens, sondern auch das des Schmerzes. – Zu sagen »Das Bild des Schmerzes tritt ins Sprachspiel mit dem Worte ›Schmerz‹ ein«, ist ein Mißverständnis. Die Vorstellung des Schmerzes ist kein Bild, und diese Vorstellung ist im Sprachspiel auch nicht durch etwas ersetzbar, was wir ein Bild nennen würden. – Wohl tritt die Vorstellung des Schmerzes in einem Sinn ins Sprachspiel ein; nur nicht als Bild."
+  ],
+  "301": [
+    "Eine Vorstellung ist kein Bild, aber ein Bild kann ihr entsprechen."
+  ],
+  "302": [
+    "Wenn man sich den Schmerz des Andern nach dem Vorbild des eigenen vorstellen muß, dann ist das keine so leichte Sache: da ich mir nach den Schmerzen, die ich fühle, Schmerzen vorstellen soll, die ich nicht fühle. Ich habe nämlich in der Vorstellung nicht einfach einen Übergang von einem Ort des Schmerzes zu einem andern zu machen. Wie von Schmerzen in der Hand zu Schmerzen im Arm. Denn ich soll mir nicht vorstellen, daß ich an einer Stelle seines Körpers Schmerz empfinde. (Was auch möglich wäre.)",
+    "Das Schmerzbenehmen kann auf eine schmerzhafte Stelle deuten, – aber die leidende Person ist die, welche Schmerz äußert."
+  ],
+  "303": [
+    "»Ich kann nur glauben, daß der Andre Schmerzen hat, aber ich weiß es, wenn ich sie habe.« – Ja; man kann sich dazu entschließen zu sagen »Ich glaube, er hat Schmerzen« statt »Er hat Schmerzen«. Aber das ist alles. –– Was hier wie eine Erklärung oder Aussage über die seelischen Vorgänge ausschaut, ist in Wahrheit ein Vertauschen einer Redeweise für eine andere, die, während wir philosophieren, uns die treffendere scheint.",
+    "Versuch einmal – in einem wirklichen Fall – die Angst, die Schmerzen des Andern zu bezweifeln."
+  ],
+  "304": [
+    "»Aber du wirst doch zugeben, daß ein Unterschied ist, zwischen Schmerzbenehmen mit Schmerzen und Schmerzbenehmen ohne Schmerzen.« – Zugeben? Welcher Unterschied könnte größer sein! – »Und doch gelangst du immer wieder zum Ergebnis, die Empfindung selbst sei ein Nichts.« – Nicht doch. Sie ist kein Etwas, aber auch nicht ein Nichts! Das Ergebnis war nur, daß ein Nichts die gleichen Dienste täte wie ein Etwas, worüber sich nichts aussagen läßt. Wir verwarfen nur die Grammatik, die sich uns hier aufdrängen will.",
+    "Das Paradox verschwindet nur dann, wenn wir radikal mit der Idee brechen, die Sprache funktioniere immer auf eine Weise, diene immer dem gleichen Zweck: Gedanken zu übertragen – seien diese nun Gedanken über Häuser, Schmerzen, Gut und Böse, oder was immer."
+  ],
+  "305": [
+    "»Aber du kannst doch nicht leugnen, daß, z.B., beim Erinnern ein innerer Vorgang stattfindet.« – Warum macht es denn den Eindruck, als wollten wir etwas leugnen? Wenn man sagt »Es findet doch dabei ein innerer Vorgang statt« – so will man fortsetzen: »Du siehst es doch.« Und es ist doch dieser innere Vorgang, den man mit dem Wort »sich erinnern« meint. – Der Eindruck, als wollten wir etwas leugnen, rührt daher, daß wir uns gegen das Bild vom ›innern Vorgang‹ wenden. Was wir leugnen, ist, daß das Bild vom innern Vorgang uns die richtige Idee von der Verwendung des Wortes »erinnern« gibt. Ja wir sagen, daß dieses Bild mit seinen Ramifikationen uns verhindert, die Verwendung des Wortes zu sehen, wie sie ist."
+  ],
+  "306": [
+    "Warum soll ich denn leugnen, daß ein geistiger Vorgang da ist?! Nur heißt »Es hat jetzt in mir der geistige Vorgang der Erinnerung an .... stattgefunden« nichts andres als: »Ich habe mich jetzt an .... erinnert«. Den geistigen Vorgang leugnen, hieße, das Erinnern leugnen; leugnen, daß irgend jemand sich je an etwas erinnert."
+  ],
+  "307": [
+    "»Bist du nicht doch ein verkappter Behaviourist? Sagst du nicht doch, im Grunde, daß alles Fiktion ist, außer dem menschlichen Benehmen?« – Wenn ich von einer Fiktion rede, dann von einer grammatischen Fiktion."
+  ],
+  "308": [
+    "Wie kommt es nur zum philosophischen Problem der seelischen Vorgänge und Zustände und des Behaviourism? –– Der erste Schritt ist der ganz unauffällige. Wir reden von Vorgängen und Zuständen, und lassen ihre Natur unentschieden! Wir werden vielleicht einmal mehr über sie wissen – meinen wir. Aber eben dadurch haben wir uns auf eine bestimmte Betrachtungsweise festgelegt. Denn wir haben einen bestimmten Begriff davon, was es heißt: einen Vorgang näher kennen zu lernen. (Der entscheidende Schritt im Taschenspielerkunststück ist getan, und gerade er schien uns unschuldig.) – Und nun zerfällt der Vergleich, der uns unsere Gedanken hätte begreiflich machen sollen. Wir müssen also den noch unverstandenen Prozeß im noch unerforschten Medium leugnen. Und so scheinen wir also die geistigen Vorgänge geleugnet zu haben. Und wollen sie doch natürlich nicht leugnen!"
+  ],
+  "309": [
+    "Was ist dein Ziel in der Philosophie? – Der Fliege den Ausweg aus dem Fliegenglas zeigen."
+  ],
+  "310": [
+    "Ich sage jemandem, ich habe Schmerzen. Seine Einstellung zu mir wird nun die des Glaubens sein; des Unglaubens; des Mißtrauens; usw.",
+    "Nehmen wir an, er sagt: »Es wird nicht so schlimm sein.« – Ist das nicht der Beweis dafür, daß er an etwas glaubt, das hinter der Schmerzäußerung steht? –– Seine Einstellung ist ein Beweis seiner Einstellung. Denke dir nicht nur den Satz »Ich habe Schmerzen«, sondern auch die Antwort »Es wird nicht so schlimm sein« durch Naturlaute und Gebärden ersetzt!"
+  ],
+  "311": [
+    "»Welcher Unterschied könnte größer sein!« – Im Falle der Schmerzen glaube ich, ich könne mir diesen Unterschied privatim vorführen. Den Unterschied aber zwischen einem abgebrochenen und einem nicht abgebrochenen Zahn kann ich Jedem vorführen. – Aber zu der privaten Vorführung brauchst du dir gar nicht Schmerzen hervorzurufen, sondern es genügt, wenn du dir sie vorstellst, – z. B. ein wenig das Gesicht verziehst. Und weißt du, daß, was du dir so vorführst, Schmerzen sind, und nicht z. B. ein Gesichtsausdruck? Wie weißt du auch, was du dir vorführen sollst, ehe du dir’s vorführst? Diese private Vorführung ist eine Illusion."
+  ],
+  "312": [
+    "Aber sind die Fälle des Zahnes und der Schmerzen nicht doch wieder ähnlich? Denn der Gesichtsempfindung im einen entspricht die Schmerzempfindung im andern. Die Gesichtsempfindung kann ich mir so wenig vorführen, oder so gut, wie die Schmerzempfindung.",
+    "Denken wir uns diesen Fall: Die Oberflächen der Dinge unsrer Umgebung (Steine, Pflanzen, etc. etc.) hätten Flecken und Zonen, die unsrer Haut bei der Berührung Schmerz verursachten. (Etwa durch die chemische Beschaffenheit dieser Oberflächen. Aber das brauchen wir nicht zu wissen.) Wir würden nun, wie heute von einem rotgefleckten Blatt einer bestimmten Pflanze, von einem Blatt mit Schmerzflecken reden. Ich denke mir, daß die Wahrnehmung dieser Flecken und ihrer Gestalt für uns von Nutzen wäre, daß wir aus ihr Schlüsse auf wichtige Eigenschaften der Dinge ziehen könnten."
+  ],
+  "313": [
+    "Ich kann Schmerzen vorführen, wie ich Rot vorführe, und wie ich Gerade und Krumm und Baum und Stein vorführe. – Das nennen wir eben »vorführen«."
+  ],
+  "314": [
+    "Es zeigt ein fundamentales Mißverständnis an, wenn ich meinen gegenwärtigen Zustand der Kopfschmerzen zu betrachten geneigt bin, um über das philosophische Problem der Empfindung ins Klare zu kommen."
+  ],
+  "315": [
+    "Könnte der das Wort »Schmerz« verstehen, der nie Schmerz gefühlt hat? – Soll die Erfahrung mich lehren, ob es so ist oder nicht? – Und wenn wir sagen »Einer kann sich Schmerzen nicht vorstellen, außer er hat sie einmal gefühlt« – woher wissen wir das? Wie läßt sich entscheiden, ob das wahr ist?"
+  ],
+  "316": [
+    "Um über die Bedeutung des Wortes »denken« klar zu werden, schauen wir uns selbst beim Denken zu: Was wir da beobachten, werde das sein, was das Wort bedeutet! – Aber so wird dieser Begriff eben nicht gebraucht. (Es wäre ähnlich, wenn ich, ohne Kenntnis des Schachspiels, durch genaues Beobachten des letzten Zuges einer Schachpartie herausbringen wollte, was das Wort »mattsetzen« bedeutet.)"
+  ],
+  "317": [
+    "Irreführende Parallele: Der Schrei, ein Ausdruck des Schmerzes – der Satz, ein Ausdruck des Gedankens!",
+    "Als wäre es der Zweck des Satzes, Einen wissen zu lassen, wie es dem Andern zu Mute ist: Nur, sozusagen, im Denkapparat und nicht im Magen."
+  ],
+  "318": [
+    "Wenn wir denkend sprechen, oder auch schreiben – ich meine, wie wir es gewöhnlich tun – so werden wir, im allgemeinen, nicht sagen, wir dächten schneller, als wir sprechen; sondern der Gedanke erscheint hier vom Ausdruck nicht abgelöst. Anderseits aber redet man von der Schnelle des Gedankens; wie ein Gedanke uns blitzartig durch den Kopf geht, wie Probleme uns mit einem Schlage klar werden, etc. Da liegt es nahe, zu fragen: Geschieht beim blitzartigen Denken das gleiche, wie beim nicht gedankenlosen Sprechen, – nur äußerst beschleunigt? So daß also im ersten Fall das Uhrwerk gleichsam mit einem Ruck abläuft, im zweiten aber, durch die Worte gehemmt, Schritt für Schritt."
+  ],
+  "319": [
+    "Ich kann in demselben Sinn blitzartig einen Gedanken ganz vor mir sehen, oder verstehen, wie ich ihn mit wenigen Worten oder Strichen notieren kann.",
+    "Was macht diese Notiz zu einer Zusammenfassung dieses Gedankens?"
+  ],
+  "320": [
+    "Der blitzartige Gedanke kann sich zum ausgesprochenen verhalten wie die algebraische Formel zu einer Zahlenfolge, die ich aus ihr entwickle.",
+    "Wird mir z.B. eine algebraische Funktion gegeben, so bin ich SICHER, ich werde ihre Werte für die Argumente 1, 2, 3, bis 10 berechnen können. Man wird diese Sicherheit ›wohlbegründet‹ nennen, denn ich habe gelernt, solche Funktionen zu berechnen, usw. In andern Fällen wird sie nicht begründet sein, – aber durch den Erfolg dennoch gerechtfertigt."
+  ],
+  "321": [
+    "»Was geschieht, wenn ein Mensch plötzlich versteht?« – Die Frage ist schlecht gestellt. Fragt sie nach der Bedeutung des Ausdrucks »plötzlich verstehen«, so ist die Antwort nicht das Hinweisen auf einen Vorgang, den wir so nennen. – Die Frage könnte bedeuten: Was sind Anzeichen dafür, daß Einer plötzlich versteht; welches sind die charakteristischen psychischen Begleiterscheinungen des plötzlichen Verstehens?",
+    "\\(Es ist kein Grund, anzunehmen, daß ein Mensch die Ausdrucksbewegungen seines Gesichts, z.B., oder die für eine Gemütsbewegung charakteristischen Veränderungen in seiner Atmung, fühle. Auch wenn er sie fühlt, sobald er seine Aufmerksamkeit auf sie lenkt.) ((Positur.))"
+  ],
+  "322": [
+    "Daß die Antwort auf die Frage nach der Bedeutung des Ausdrucks mit dieser Beschreibung nicht gegeben ist, verleitet dann zu der Folgerung, das Verstehen sei eben ein spezifisches, undefinierbares, Erlebnis. Man vergißt aber, daß, was uns interessieren muß, die Frage ist: Wie vergleichen wir diese Erlebnisse; was legen wir fest als Kriterium der Identität des Geschehnisses?"
+  ],
+  "323": [
+    "»Jetzt weiß ich weiter!« ist ein Ausruf; er entspricht einem Naturlaut, einem freudigen Aufzucken. Aus meiner Empfindung folgt natürlich nicht, daß ich nicht stecken bleibe, sowie ich versuche, weiterzugehen. – Es gibt da Fälle, in denen ich sagen werde: »Als ich sagte, ich wisse weiter, da war es so.« Das wird man z.B. sagen, wenn eine unvorhergesehene Störung eingetreten ist. Aber das Unvorhergesehene dürfte nicht einfach das sein, daß ich steckenblieb.",
+    "Es wäre auch denkbar, daß Einer immer wieder Scheinerleuchtungen hätte, – ausriefe »Jetzt hab ich’s!« und es dann nie durch die Tat rechtfertigen könnte. – Es könnte ihm scheinen, als vergäße er augenblicklich wieder die Bedeutung des Bildes, das ihm vorschwebte."
+  ],
+  "324": [
+    "Wäre es richtig zu sagen, es handle sich hier um Induktion, und ich sei so sicher, daß ich die Reihe werde fortsetzen können, wie ich es bin, daß dieses Buch zur Erde fallen wird, wenn ich es auslasse; und ich wäre nicht erstaunter, wenn ich plötzlich ohne offenbare Ursache im Entwickeln der Reihe steckenbliebe, als ich es wäre, wenn das Buch, statt zu fallen, in der Luft schweben bliebe? – Darauf will ich antworten, daß wir eben auch zu dieser Sicherheit keiner Gründe bedürfen. Was könnte die Sicherheit mehr rechtfertigen als der Erfolg?"
+  ],
+  "325": [
+    "»Die Gewißheit, daß ich werde fortsetzen können, nachdem ich dies Erlebnis gehabt habe – z.B. diese Formel gesehen habe – gründet sich einfach auf Induktion.« Was heißt das? – »Die Gewißheit, daß das Feuer mich brennen wird, gründet sich auf Induktion.« Heißt dies, daß ich bei mir schließe »Ich habe mich immer an einer Flamme verbrannt, also wird es auch jetzt geschehen«? Oder ist die frühere Erfahrung die Ursache meiner Gewißheit, nicht ihr Grund? Ist die frühere Erfahrung die Ursache der Gewißheit – das kommt auf das System von Hypothesen, Naturgesetzen an, in welchem wir das Phänomen der Gewißheit betrachten.",
+    "Ist die Zuversicht gerechtfertigt? – Was die Menschen als Rechtfertigung gelten lassen, – zeigt, wie sie denken und leben."
+  ],
+  "326": [
+    "Wir erwarten dies und werden von dem überrascht; aber die Kette der Gründe hat ein Ende."
+  ],
+  "327": [
+    "»Kann man denken, ohne zu reden?« – Und was ist Denken? – Nun, denkst du nie? Kannst du dich nicht beobachten und sehen, was da vorgeht? Das sollte doch einfach sein. Du mußt ja darauf nicht, wie auf ein astronomisches Ereignis warten und dann etwa in Eile deine Beobachtung machen."
+  ],
+  "328": [
+    "Nun, was nennt man noch »denken«? Wofür hat man gelernt, das Wort zu benützen? – Wenn ich sage, ich habe gedacht, – muß ich da immer recht haben? – Was für eine Art des Irrtums gibt es da? Gibt es Umstände, unter denen man fragen würde: »War, was ich da getan habe, wirklich ein Denken; irre ich mich nicht?« Wenn jemand, im Verlauf eines Gedankengangs, eine Messung ausführt: hat er das Denken unterbrochen, wenn er beim Messen nicht zu sich selbst spricht?"
+  ],
+  "329": [
+    "Wenn ich in der Sprache denke, so schweben mir nicht neben dem sprachlichen Ausdruck noch ›Bedeutungen‹ vor; sondern die Sprache selbst ist das Vehikel des Denkens."
+  ],
+  "330": [
+    "Ist Denken eine Art Sprechen? Man möchte sagen, es ist das, was denkendes Sprechen vom gedankenlosen Sprechen unterscheidet. – Und da scheint es eine Begleitung des Sprechens zu sein. Ein Vorgang, der vielleicht auch etwas anderes begleiten, oder selbständig ablaufen kann.",
+    "Sprich die Zeile: »Die Feder ist wohl stumpf. Nu, nu, sie geht.« Einmal denkend; dann gedankenlos; dann denk nur den Gedanken, aber ohne die Worte. – Nun, ich könnte, im Laufe einer Handlung, die Spitze meiner Feder prüfen, mein Gesicht verziehen, – dann mit einer Gebärde der Resignation weiterschreiben. – Ich könnte auch, mit irgendwelchen Messungen beschäftigt, so handeln, daß, wer mir zusieht, sagen würde, ich habe – ohne Worte – gedacht: Sind zwei Größen einer dritten gleich, so sind sie untereinander gleich. – Aber was hier das Denken ausmacht, ist nicht ein Vorgang, der die Worte begleiten muß, wenn sie nicht gedankenlos ausgesprochen sein sollen."
+  ],
+  "331": [
+    "Stell dir Menschen vor, die nur laut denken könnten! (Wie es Menschen gibt, die nur laut lesen können.)"
+  ],
+  "332": [
+    "»Denken« nennen wir wohl manchmal, den Satz mit einem seelischen Vorgang begleiten, aber »Gedanke« nennen wir nicht jene Begleitung. –– Sprich einen Satz und denke ihn; sprich ihn mit Verständnis! – Und nun sprich ihn nicht, und tu nur das, womit du ihn beim verständnisvollen Sprechen begleitet hast! – (Sing dies Lied mit Ausdruck! Und nun sing es nicht, aber wiederhole den Ausdruck! – Und man könnte auch hier etwas wiederholen; z.B. Schwingungen des Körpers, langsameres und schnelleres Atmen, etc.)"
+  ],
+  "333": [
+    "»Das kann nur Einer sagen, der davon überzeugt ist.« – Wie hilft ihm die Überzeugung, wenn er es sagt? – Ist sie dann neben dem gesprochenen Ausdruck vorhanden? (Oder wird sie von diesem zugedeckt, wie ein leiser Ton von einem lauten, so daß sie gleichsam nicht mehr gehört werden kann, wenn man sie laut ausdrückt?) Wie, wenn Einer sagte: »Damit man eine Melodie nach dem Gedächtnis singen kann, muß man sie im Geiste hören und sie nachsingen« ?"
+  ],
+  "334": [
+    "»Du wolltest also eigentlich sagen ....« – Mit dieser Redeweise leiten wir Jemand von einer Ausdrucksform zu einer andern. Man ist versucht, das Bild zu gebrauchen: das, was er eigentlich ›sagen wollte‹, was er ›meinte‹, sei, noch ehe wir es aussprachen, in seinem Geist vorhanden gewesen. Was uns dazu bewegt, einen Ausdruck aufzugeben und an seiner Stelle einen andern anzunehmen, kann von mannigfacher Art sein. Das zu verstehen, ist es nützlich, das Verhältnis zu betrachten, in welchem Lösungen mathematischer Probleme zum Anlaß und Ursprung ihrer Fragestellung stehen. Der Begriff ›Dreiteilung des Winkels mit Lineal und Zirkel‹, wenn Einer nach der Dreiteilung sucht, und anderseits, wenn bewiesen ist, daß es sie nicht gibt."
+  ],
+  "335": [
+    "Was geschieht, wenn wir uns bemühen – etwa beim Schreiben eines Briefes – den richtigen Ausdruck für unsere Gedanken zu finden? – Diese Redeweise vergleicht den Vorgang dem einer Übersetzung, oder Beschreibung: Die Gedanken sind da (etwa schon vorher), und wir suchen nur noch nach ihrem Ausdruck. Dieses Bild trifft für verschiedene Fälle mehr oder weniger zu. – Aber was kann hier nicht alles geschehen! – Ich gebe mich einer Stimmung hin, und der Ausdruck kommt. Oder: es schwebt mir ein Bild vor, das ich zu beschreiben trachte. Oder: es fiel mir ein englischer Ausdruck ein, und ich will mich auf den entsprechenden deutschen besinnen. Oder: ich mache eine Gebärde, und frage mich: »Welches sind die Worte, die dieser Gebärde entsprechen?« Etc.",
+    "Wenn man nun fragte »Hast du den Gedanken, ehe du den Ausdruck hattest?« – was müßte man da antworten? Und was auf die Frage: »Worin bestand der Gedanke, wie er vor dem Ausdruck vorhanden war?«"
+  ],
+  "336": [
+    "Es liegt hier ein Fall vor, ähnlich dem, wenn jemand sich vorstellt, man könne einen Satz mit der merkwürdigen Wortstellung der deutschen oder lateinischen Sprache nicht einfach denken, wie er dasteht. Man müsse ihn zuerst denken, und dann bringt man die Wörter in jene seltsame Ordnung. (Ein französischer Politiker schrieb einmal, es sei eine Eigentümlichkeit der französischen Sprache, daß in ihr die Worte in der Ordnung stehen, in welcher man sie denkt.)"
+  ],
+  "337": [
+    "Aber habe ich nicht die Gesamtform des Satzes, z.B., schon an seinem Anfang beabsichtigt? Also war er mir doch schon im Geiste, ehe er noch ausgesprochen war! – Wenn er mir im Geiste war, dann, im allgemeinen, nicht mit anderer Wortstellung. Aber wir machen uns hier wieder ein irreführendes Bild vom ›Beabsichtigen‹; d.h., vom Gebrauch dieses Worts. Die Absicht ist eingebettet in der Situation, den menschlichen Gepflogenheiten und Institutionen. Gäbe es nicht die Technik des Schachspiels, so könnte ich nicht beabsichtigen, eine Schachpartie zu spielen. Soweit ich die Satzform im voraus beabsichtige, ist dies dadurch ermöglicht, daß ich deutsch sprechen kann."
+  ],
+  "338": [
+    "Man kann doch nur etwas sagen, wenn man sprechen gelernt hat. Wer also etwas sagen will, muß dazu auch gelernt haben, eine Sprache beherrschen; und doch ist es klar, daß er beim Sprechenwollen nicht sprechen mußte. Wie er auch beim Tanzenwollen nicht tanzt.",
+    "Und wenn man darüber nachdenkt, so greift der Geist nach der Vorstellung des Tanzens, Redens, etc."
+  ],
+  "339": [
+    "Denken ist kein unkörperlicher Vorgang, der dem Reden Leben und Sinn leiht, und den man vom Reden ablösen könnte, gleichsam wie der Böse den Schatten Schlemihls vom Boden abnimmt. –– Aber wie: »kein unkörperlicher Vorgang«? Kenne ich also unkörperliche Vorgänge, das Denken aber ist nicht einer von ihnen? Nein; das Wort »unkörperlicher Vorgang« nahm ich mir zu Hilfe, in meiner Verlegenheit, da ich die Bedeutung des Wortes »denken« auf primitive Weise erklären wollte.",
+    "Man könnte aber sagen »Denken ist ein unkörperlicher Vorgang«, wenn man dadurch die Grammatik des Wortes »denken« von der des Wortes »essen«, z.B., unterscheiden will. Nur erscheint dadurch der Unterschied der Bedeutung zu gering. (Ähnlich ist es, wenn man sagt: die Zahlzeichen seien wirkliche, die Zahlen nicht-wirkliche Gegenstände.) Eine unpassende Ausdrucksweise ist ein sicheres Mittel, in einer Verwirrung stecken zu bleiben. Sie verriegelt gleichsam den Ausweg aus ihr."
+  ],
+  "340": [
+    "Wie ein Wort funktioniert, kann man nicht erraten. Man muß seine Anwendung ansehen und daraus lernen.",
+    "Die Schwierigkeit aber ist, das Vorurteil zu beseitigen, das diesem Lernen entgegensteht. Es ist kein dummes Vorurteil."
+  ],
+  "341": [
+    "Gedankenloses und nicht gedankenloses Sprechen ist zu vergleichen dem gedankenlosen und nicht gedankenlosen Spielen eines Musikstücks."
+  ],
+  "342": [
+    "William James, um zu zeigen, daß Denken ohne Sprechen möglich ist, zitiert die Erinnerung eines Taubstummen, Mr. Ballard, welcher schreibt, er habe in seiner frühen Jugend, noch ehe er sprechen konnte, sich über Gott und die Welt Gedanken gemacht. – Was das wohl heißen mag! – Ballard schreibt: »It was during those delightful rides, some two or three years before my initiation into the rudiments of written language, that I began to ask myself the question: how came the world into being?« – Bist du sicher, daß dies die richtige Übersetzung deiner wortlosen Gedanken in Worte ist? – möchte man fragen. Und warum reckt diese Frage – die doch sonst gar nicht zu existieren scheint – hier ihren Kopf hervor? Will ich sagen, es täusche den Schreiber sein Gedächtnis? – Ich weiß nicht einmal, ob ich das sagen würde. Diese Erinnerungen sind ein seltsames Gedächtnisphänomen – und ich weiß nicht, welche Schlüsse auf die Vergangenheit des Erzählers man aus ihnen ziehen kann!"
+  ],
+  "343": [
+    "Die Worte, mit denen ich meine Erinnerung ausdrücke, sind meine Erinnerungsreaktion."
+  ],
+  "344": [
+    "Wäre es denkbar, daß Menschen nie eine hörbare Sprache sprächen, wohl aber eine im Innern, in der Vorstellung, zu sich selber?",
+    "»Wenn die Menschen immer nur in ihrem Innern zu sich selbst sprächen, so täten sie schließlich nur dasjenige beständig, was sie auch heute manchmal tun.« – Es ist also ganz leicht, sich dies vorzustellen; man braucht nur den leichten Übergang von Einigen zu Allen zu machen. (Ähnlich: »Eine unendlich lange Baumreihe ist einfach eine, die nicht zu einem Ende kommt«.) Unser Kriterium dafür, daß Einer zu sich selbst spricht, ist das, was er uns sagt, und sein übriges Verhalten; und wir sagen nur von dem, er spräche zu sich selbst, der, im gewöhnlichen Sinne, sprechen kann. Und wir sagen es auch nicht von einem Papagei; und nicht von einem Grammophon."
+  ],
+  "345": [
+    "»Was manchmal geschieht, könnte immer geschehen« – was wäre das für ein Satz? Ein ähnlicher, wie dieser: Wenn »F(a)« Sinn hat, hat »(x).F(x)« Sinn.",
+    "»Wenn es vorkommen kann, daß Einer in einem Spiel falsch zieht, so könnte es sein, daß alle Menschen in allen Spielen nichts als falsche Züge machten.« – Wir sind also in der Versuchung, hier die Logik unsrer Ausdrücke mißzuverstehen, den Gebrauch unsrer Worte unrichtig darzustellen.",
+    "Befehle werden manchmal nicht befolgt. Wie aber würde es aussehen, wenn Befehle nie befolgt würden? Der Begriff ›Befehl‹ hätte seinen Zweck verloren."
+  ],
+  "346": [
+    "Aber könnten wir uns nicht vorstellen, daß Gott einem Papagei plötzlich Verstand schenkte, und dieser nun zu sich selbst redete? – Aber hier ist es wichtig, daß ich zu dieser Vorstellung die Vorstellung von einer Gottheit zu Hilfe nahm."
+  ],
+  "347": [
+    "»Aber ich weiß doch von mir selbst, was es heißt ›zu sich selbst sprechen‹. Und würde ich der Organe des lauten Sprechens beraubt, so könnte ich dennoch in mir Selbstgespräche führen.«",
+    "Weiß ich’s nur von mir selbst, dann weiß ich also nur, was ich so nenne, nicht, was ein Andrer so nennt."
+  ],
+  "348": [
+    "»Diese Taubstummen haben alle nur eine Gebärdensprache gelernt, Jeder aber spricht zu sich selbst im Innern eine Lautsprache.« – Nun, verstehst du das nicht? – Wie weiß ich nur, ob ich’s verstehe?! – Was kann ich mit dieser Mitteilung (wenn’s eine ist) anfangen? Die ganze Idee des Verstehens erhält hier einen verdächtigen Geruch. Ich weiß nicht, ob ich sagen soll, ich versteh’s, oder ich versteh’s nicht. Ich möchte antworten: »Es ist ein deutscher Satz; scheinbar ganz in Ordnung, – ehe man nämlich mit ihm arbeiten will; er steht mit andern Sätzen in einem Zusammenhang, der es uns schwer macht zu sagen, man wisse eigentlich nicht, was er uns mitteilt; Jeder, der nicht durch Philosophieren empfindungslos geworden ist, merkt, daß hier etwas nicht stimmt.«"
+  ],
+  "349": [
+    "»Aber diese Annahme hat doch gewiß einen guten Sinn!« – Ja; diese Worte und dies Bild haben unter gewöhnlichen Umständen eine uns geläufige Anwendung. – Nehmen wir aber einen Fall an, in welchem diese Anwendung wegfällt, so werden wir uns nun gleichsam zum ersten Male der Nacktheit der Worte und des Bildes bewußt."
+  ],
+  "350": [
+    "»Aber wenn ich annehme, Einer habe Schmerzen, so nehme ich einfach an, er habe dasselbe, was ich so oft gehabt habe.« – Das führt uns nicht weiter. Es ist, als sagte ich: »Du weißt doch, was es heißt ›Es ist hier 5 Uhr‹; dann weißt du auch, was es heißt, es sei 5 Uhr auf der Sonne. Es heißt eben, es sei dort ebensoviel Uhr wie hier, wenn es hier 5 Uhr ist.« – Die Erklärung mittels der Gleichheit funktioniert hier nicht. Weil ich zwar weiß, daß man 5 Uhr hier »die gleiche Zeit« nennen kann, wie 5 Uhr dort, aber eben nicht weiß, in welchem Falle man von Zeitgleichheit hier und dort sprechen soll.",
+    "Geradeso ist es keine Erklärung, zu sagen: die Annahme, er habe Schmerzen, sei eben die Annahme, er habe das Gleiche wie ich. Denn dieser Teil der Grammatik ist mir wohl klar: daß man nämlich sagen werde, der Ofen habe das gleiche Erlebnis wie ich, wenn man sagt: er habe Schmerzen und ich habe Schmerzen."
   ]
 };
